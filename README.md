@@ -4,7 +4,8 @@
 
 📸 应用截图
 
- ![Uploading image.png…]()
+ <img width="2536" height="1298" alt="image" src="https://gitee.com/pengjuliu/allweather-portfolio-backtester/raw/master/newplot.png" />
+
 
 
 ✨ 核心功能
