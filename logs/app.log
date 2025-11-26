@@ -1,0 +1,1140 @@
+2025-11-07 18:28:40,495 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-07 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-07 18:28:40,796 [INFO] report: Metrics: AR=9.52%, Vol=8.54%, Sharpe=1.15, MDD=-12.42%
+2025-11-07 18:28:40,796 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-07 18:28:41,360 [INFO] viz: Figure prepared. MDD=-12.42% from 2021-11-22 to 2022-10-11
+2025-11-07 18:28:42,263 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-07 18:28:42,263 [INFO] main: Pipeline completed.
+2025-11-07 18:34:38,372 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2024-12-31 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-07 18:34:38,694 [INFO] report: Metrics: AR=7.47%, Vol=5.60%, Sharpe=1.36, MDD=-8.14%
+2025-11-07 18:34:38,695 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-07 18:34:38,973 [INFO] viz: Figure prepared. MDD=-8.14% from 2015-06-08 to 2015-08-25
+2025-11-07 18:34:39,024 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-07 18:34:39,025 [INFO] main: Pipeline completed.
+2025-11-07 18:43:33,158 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-07 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-07 18:43:33,468 [INFO] report: Metrics: AR=9.52%, Vol=8.54%, Sharpe=1.15, MDD=-12.42%
+2025-11-07 18:43:33,470 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-07 18:43:33,824 [INFO] viz: Figure prepared. MDD=-12.42% from 2021-11-22 to 2022-10-11
+2025-11-07 18:43:33,892 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-07 18:43:33,893 [INFO] main: Pipeline completed.
+2025-11-07 18:44:54,440 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-07 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-07 18:44:54,776 [INFO] report: Metrics: AR=8.03%, Vol=5.62%, Sharpe=1.45, MDD=-8.14%
+2025-11-07 18:44:54,777 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-07 18:44:55,039 [INFO] viz: Figure prepared. MDD=-8.14% from 2015-06-08 to 2015-08-25
+2025-11-07 18:44:55,086 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-07 18:44:55,087 [INFO] main: Pipeline completed.
+2025-11-07 18:48:09,432 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-07 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-07 18:48:09,770 [INFO] report: Metrics: AR=7.93%, Vol=5.73%, Sharpe=1.41, MDD=-8.47%
+2025-11-07 18:48:09,771 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-07 18:48:10,050 [INFO] viz: Figure prepared. MDD=-8.47% from 2015-06-08 to 2015-08-25
+2025-11-07 18:48:10,099 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-07 18:48:10,100 [INFO] main: Pipeline completed.
+2025-11-07 18:50:20,347 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-07 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-07 18:50:20,656 [INFO] report: Metrics: AR=9.52%, Vol=8.54%, Sharpe=1.15, MDD=-12.42%
+2025-11-07 18:50:20,658 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-07 18:50:20,933 [INFO] viz: Figure prepared. MDD=-12.42% from 2021-11-22 to 2022-10-11
+2025-11-07 18:50:20,981 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-07 18:50:20,982 [INFO] main: Pipeline completed.
+2025-11-07 18:50:55,730 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-07 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-07 18:50:56,083 [INFO] report: Metrics: AR=8.07%, Vol=5.85%, Sharpe=1.40, MDD=-9.63%
+2025-11-07 18:50:56,084 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-07 18:50:56,357 [INFO] viz: Figure prepared. MDD=-9.63% from 2015-06-08 to 2015-08-25
+2025-11-07 18:50:56,405 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-07 18:50:56,406 [INFO] main: Pipeline completed.
+2025-11-07 18:51:26,778 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-07 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-07 18:51:27,087 [INFO] report: Metrics: AR=9.52%, Vol=8.54%, Sharpe=1.15, MDD=-12.42%
+2025-11-07 18:51:27,089 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-07 18:51:27,352 [INFO] viz: Figure prepared. MDD=-12.42% from 2021-11-22 to 2022-10-11
+2025-11-07 18:51:27,401 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-07 18:51:27,401 [INFO] main: Pipeline completed.
+2025-11-07 18:51:39,193 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-07 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-07 18:51:39,554 [INFO] report: Metrics: AR=8.07%, Vol=5.85%, Sharpe=1.40, MDD=-9.63%
+2025-11-07 18:51:39,555 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-07 18:51:39,836 [INFO] viz: Figure prepared. MDD=-9.63% from 2015-06-08 to 2015-08-25
+2025-11-07 18:51:39,884 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-07 18:51:39,885 [INFO] main: Pipeline completed.
+2025-11-17 19:22:06,647 [INFO] stage_update: 511010.SH 已有至 2025-11-07, 增量起始 2025-11-08 -> 2025-11-17
+2025-11-17 19:22:06,825 [INFO] stage_update: Fetching slice 511010.SH from 20251108 to 20251117...
+2025-11-17 19:22:06,826 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-17 19:22:07,009 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-17 19:22:07,336 [INFO] stage_update: Saved 511010.SH CSV -> data\511010_SH.csv
+2025-11-17 19:22:10,232 [INFO] stage_update: 511880.SH 已有至 2025-11-07, 增量起始 2025-11-08 -> 2025-11-17
+2025-11-17 19:22:10,442 [INFO] stage_update: Fetching slice 511880.SH from 20251108 to 20251117...
+2025-11-17 19:22:10,442 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-17 19:22:10,689 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-17 19:22:10,939 [INFO] stage_update: Saved 511880.SH CSV -> data\511880_SH.csv
+2025-11-17 19:22:12,864 [INFO] stage_update: 510300.SH 已有至 2025-11-07, 增量起始 2025-11-08 -> 2025-11-17
+2025-11-17 19:22:13,084 [INFO] stage_update: Fetching slice 510300.SH from 20251108 to 20251117...
+2025-11-17 19:22:13,084 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-17 19:22:13,379 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-17 19:22:13,721 [INFO] stage_update: Saved 510300.SH CSV -> data\510300_SH.csv
+2025-11-17 19:22:14,801 [INFO] stage_update: 513100.SH 已有至 2025-11-07, 增量起始 2025-11-08 -> 2025-11-17
+2025-11-17 19:22:14,948 [INFO] stage_update: Fetching slice 513100.SH from 20251108 to 20251117...
+2025-11-17 19:22:14,949 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-17 19:22:15,123 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-17 19:22:15,359 [INFO] stage_update: Saved 513100.SH CSV -> data\513100_SH.csv
+2025-11-17 19:22:17,110 [INFO] stage_update: 518880.SH 已有至 2025-11-07, 增量起始 2025-11-08 -> 2025-11-17
+2025-11-17 19:22:17,245 [INFO] stage_update: Fetching slice 518880.SH from 20251108 to 20251117...
+2025-11-17 19:22:17,246 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-17 19:22:17,389 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-17 19:22:17,573 [INFO] stage_update: Saved 518880.SH CSV -> data\518880_SH.csv
+2025-11-17 19:22:18,642 [INFO] stage_update: Update stage completed.
+2025-11-17 19:22:18,644 [INFO] main: Pipeline completed.
+2025-11-17 19:34:32,361 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-17 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-17 19:34:32,583 [INFO] report: Metrics: AR=7.99%, Vol=5.63%, Sharpe=1.44, MDD=-8.14%
+2025-11-17 19:34:32,584 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-17 19:34:32,957 [INFO] viz: Figure prepared. MDD=-8.14% from 2015-06-08 to 2015-08-25
+2025-11-17 19:34:34,561 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-17 19:34:34,561 [INFO] main: Pipeline completed.
+2025-11-20 18:18:21,374 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-17 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:18:21,939 [INFO] report: Metrics: AR=7.99%, Vol=5.63%, Sharpe=1.44, MDD=-8.14%
+2025-11-20 18:18:21,943 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:18:23,227 [INFO] viz: Figure prepared. MDD=-8.14% from 2015-06-08 to 2015-08-25
+2025-11-20 18:18:25,131 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:18:25,132 [INFO] main: Pipeline completed.
+2025-11-20 18:33:46,166 [INFO] stage_update: 511010.SH 已有至 2025-11-17, 增量起始 2025-11-18 -> 2025-11-20
+2025-11-20 18:33:46,298 [INFO] stage_update: Fetching slice 511010.SH from 20251118 to 20251120...
+2025-11-20 18:33:46,298 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-20 18:33:46,409 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-20 18:33:46,584 [INFO] stage_update: Saved 511010.SH CSV -> data\511010_SH.csv
+2025-11-20 18:33:49,327 [INFO] stage_update: 511880.SH 已有至 2025-11-17, 增量起始 2025-11-18 -> 2025-11-20
+2025-11-20 18:33:49,489 [INFO] stage_update: Fetching slice 511880.SH from 20251118 to 20251120...
+2025-11-20 18:33:49,490 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-20 18:33:49,644 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-20 18:33:49,823 [INFO] stage_update: Saved 511880.SH CSV -> data\511880_SH.csv
+2025-11-20 18:33:51,645 [INFO] stage_update: 510300.SH 已有至 2025-11-17, 增量起始 2025-11-18 -> 2025-11-20
+2025-11-20 18:33:51,853 [INFO] stage_update: Fetching slice 510300.SH from 20251118 to 20251120...
+2025-11-20 18:33:51,854 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-20 18:33:51,946 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-20 18:33:52,069 [INFO] stage_update: Saved 510300.SH CSV -> data\510300_SH.csv
+2025-11-20 18:33:54,582 [INFO] stage_update: 513100.SH 已有至 2025-11-17, 增量起始 2025-11-18 -> 2025-11-20
+2025-11-20 18:33:54,714 [INFO] stage_update: Fetching slice 513100.SH from 20251118 to 20251120...
+2025-11-20 18:33:54,715 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-20 18:33:54,837 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-20 18:33:55,024 [INFO] stage_update: Saved 513100.SH CSV -> data\513100_SH.csv
+2025-11-20 18:33:56,310 [INFO] stage_update: 518880.SH 已有至 2025-11-17, 增量起始 2025-11-18 -> 2025-11-20
+2025-11-20 18:33:56,485 [INFO] stage_update: Fetching slice 518880.SH from 20251118 to 20251120...
+2025-11-20 18:33:56,485 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-20 18:33:56,609 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-20 18:33:56,757 [INFO] stage_update: Saved 518880.SH CSV -> data\518880_SH.csv
+2025-11-20 18:33:59,154 [INFO] stage_update: Update stage completed.
+2025-11-20 18:33:59,155 [INFO] main: Pipeline completed.
+2025-11-20 18:37:04,477 [INFO] backtest: Price frame prepared: 2024-11-20 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:37:04,501 [INFO] report: Metrics: AR=14.56%, Vol=5.80%, Sharpe=2.45, MDD=-4.04%
+2025-11-20 18:37:04,502 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:37:04,687 [INFO] viz: Figure prepared. MDD=-4.04% from 2025-02-19 to 2025-04-07
+2025-11-20 18:37:04,706 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:37:04,706 [INFO] main: Pipeline completed.
+2025-11-20 18:38:56,062 [INFO] backtest: Price frame prepared: 2024-11-20 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:38:56,131 [INFO] report: Metrics: AR=15.41%, Vol=6.30%, Sharpe=2.38, MDD=-3.87%
+2025-11-20 18:38:56,132 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:38:56,329 [INFO] viz: Figure prepared. MDD=-3.87% from 2025-02-19 to 2025-04-07
+2025-11-20 18:38:56,353 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:38:56,353 [INFO] main: Pipeline completed.
+2025-11-20 18:40:19,702 [INFO] backtest: Price frame prepared: 2024-11-20 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:40:19,767 [INFO] report: Metrics: AR=15.41%, Vol=6.30%, Sharpe=2.38, MDD=-3.87%
+2025-11-20 18:40:19,768 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:40:19,949 [INFO] viz: Figure prepared. MDD=-3.87% from 2025-02-19 to 2025-04-07
+2025-11-20 18:40:19,968 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:40:19,968 [INFO] main: Pipeline completed.
+2025-11-20 18:40:28,957 [INFO] backtest: Price frame prepared: 2024-11-20 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:40:28,976 [INFO] report: Metrics: AR=15.18%, Vol=6.08%, Sharpe=2.43, MDD=-3.87%
+2025-11-20 18:40:28,977 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:40:29,177 [INFO] viz: Figure prepared. MDD=-3.87% from 2025-02-19 to 2025-04-07
+2025-11-20 18:40:29,196 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:40:29,196 [INFO] main: Pipeline completed.
+2025-11-20 18:42:08,363 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:42:10,475 [INFO] report: Metrics: AR=8.89%, Vol=4.83%, Sharpe=1.85, MDD=-5.62%
+2025-11-20 18:42:10,476 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:42:10,657 [INFO] viz: Figure prepared. MDD=-5.62% from 2015-06-08 to 2016-01-21
+2025-11-20 18:42:10,691 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:42:10,692 [INFO] main: Pipeline completed.
+2025-11-20 18:42:24,461 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:42:24,639 [INFO] report: Metrics: AR=9.45%, Vol=8.57%, Sharpe=1.13, MDD=-12.42%
+2025-11-20 18:42:24,640 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:42:24,833 [INFO] viz: Figure prepared. MDD=-12.42% from 2021-11-22 to 2022-10-11
+2025-11-20 18:42:24,860 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:42:24,861 [INFO] main: Pipeline completed.
+2025-11-20 18:43:06,593 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:43:08,720 [INFO] report: Metrics: AR=8.89%, Vol=4.83%, Sharpe=1.85, MDD=-5.62%
+2025-11-20 18:43:08,721 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:43:08,915 [INFO] viz: Figure prepared. MDD=-5.62% from 2015-06-08 to 2016-01-21
+2025-11-20 18:43:08,943 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:43:08,943 [INFO] main: Pipeline completed.
+2025-11-20 18:43:26,180 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:43:26,406 [INFO] report: Metrics: AR=7.98%, Vol=5.63%, Sharpe=1.44, MDD=-8.14%
+2025-11-20 18:43:26,406 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:43:26,596 [INFO] viz: Figure prepared. MDD=-8.14% from 2015-06-08 to 2015-08-25
+2025-11-20 18:43:26,624 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:43:26,624 [INFO] main: Pipeline completed.
+2025-11-20 18:47:05,027 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:47:07,175 [INFO] report: Metrics: AR=12.10%, Vol=7.38%, Sharpe=1.64, MDD=-10.01%
+2025-11-20 18:47:07,176 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:47:07,365 [INFO] viz: Figure prepared. MDD=-10.01% from 2015-06-12 to 2016-01-21
+2025-11-20 18:47:07,392 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:47:07,392 [INFO] main: Pipeline completed.
+2025-11-20 18:50:47,836 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:50:49,931 [INFO] report: Metrics: AR=12.10%, Vol=7.38%, Sharpe=1.64, MDD=-10.01%
+2025-11-20 18:50:49,932 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:50:50,120 [INFO] viz: Figure prepared. MDD=-10.01% from 2015-06-12 to 2016-01-21
+2025-11-20 18:50:50,151 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:50:50,152 [INFO] main: Pipeline completed.
+2025-11-20 18:57:38,445 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 18:57:40,570 [INFO] report: Metrics: AR=12.10%, Vol=7.38%, Sharpe=1.64, MDD=-10.01%
+2025-11-20 18:57:40,571 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 18:57:40,776 [INFO] viz: Figure prepared. MDD=-10.01% from 2015-06-12 to 2016-01-21
+2025-11-20 18:57:40,803 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 18:57:40,819 [INFO] stage_backtest: Holdings saved to reports\holdings_daily.csv
+2025-11-20 18:57:40,823 [INFO] stage_backtest: Events saved to reports\rebalance_events.csv
+2025-11-20 18:57:40,824 [INFO] main: Pipeline completed.
+2025-11-20 19:06:44,812 [INFO] backtest: Price frame prepared: 2014-09-01 00:00:00 -> 2014-11-28 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 19:06:44,824 [INFO] report: Metrics: AR=16.66%, Vol=4.16%, Sharpe=3.83, MDD=-0.94%
+2025-11-20 19:06:44,825 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 19:06:45,028 [INFO] viz: Figure prepared. MDD=-0.94% from 2014-09-05 to 2014-09-16
+2025-11-20 19:06:45,046 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 19:06:45,049 [INFO] stage_backtest: Holdings saved to reports\holdings_daily.csv
+2025-11-20 19:07:32,466 [INFO] backtest: Price frame prepared: 2014-09-01 00:00:00 -> 2014-11-28 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 19:07:32,478 [INFO] report: Metrics: AR=16.66%, Vol=4.16%, Sharpe=3.83, MDD=-0.94%
+2025-11-20 19:07:32,479 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 19:07:32,672 [INFO] viz: Figure prepared. MDD=-0.94% from 2014-09-05 to 2014-09-16
+2025-11-20 19:07:32,690 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 19:07:32,694 [INFO] stage_backtest: Holdings saved to reports\holdings_daily.csv
+2025-11-20 19:07:32,694 [INFO] stage_backtest: Events saved to 
+2025-11-20 19:07:32,695 [INFO] main: Pipeline completed.
+2025-11-20 19:15:32,145 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-20 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-20 19:15:34,247 [INFO] report: Metrics: AR=12.31%, Vol=7.37%, Sharpe=1.67, MDD=-9.35%
+2025-11-20 19:15:34,248 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-20 19:15:34,432 [INFO] viz: Figure prepared. MDD=-9.35% from 2015-06-08 to 2016-01-20
+2025-11-20 19:15:34,458 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-20 19:15:34,475 [INFO] stage_backtest: Holdings saved to reports\holdings_daily.csv
+2025-11-20 19:15:34,480 [INFO] stage_backtest: Events saved to reports\rebalance_events.csv
+2025-11-20 19:15:34,480 [INFO] main: Pipeline completed.
+2025-11-21 19:29:08,706 [INFO] stage_update: 511010.SH 已有至 2025-11-20, 增量起始 2025-11-21 -> 2025-11-21
+2025-11-21 19:29:08,828 [INFO] stage_update: Fetching slice 511010.SH from 20251121 to 20251121...
+2025-11-21 19:29:08,829 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-21 19:29:08,886 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-21 19:29:09,023 [INFO] stage_update: Saved 511010.SH CSV -> data\511010_SH.csv
+2025-11-21 19:29:10,127 [INFO] stage_update: 511880.SH 已有至 2025-11-20, 增量起始 2025-11-21 -> 2025-11-21
+2025-11-21 19:29:10,222 [INFO] stage_update: Fetching slice 511880.SH from 20251121 to 20251121...
+2025-11-21 19:29:10,223 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-21 19:29:10,305 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-21 19:29:10,392 [INFO] stage_update: Saved 511880.SH CSV -> data\511880_SH.csv
+2025-11-21 19:29:12,700 [INFO] stage_update: 510300.SH 已有至 2025-11-20, 增量起始 2025-11-21 -> 2025-11-21
+2025-11-21 19:29:12,796 [INFO] stage_update: Fetching slice 510300.SH from 20251121 to 20251121...
+2025-11-21 19:29:12,797 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-21 19:29:12,853 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-21 19:29:12,956 [INFO] stage_update: Saved 510300.SH CSV -> data\510300_SH.csv
+2025-11-21 19:29:14,143 [INFO] stage_update: 513100.SH 已有至 2025-11-20, 增量起始 2025-11-21 -> 2025-11-21
+2025-11-21 19:29:14,233 [INFO] stage_update: Fetching slice 513100.SH from 20251121 to 20251121...
+2025-11-21 19:29:14,233 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-21 19:29:14,308 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-21 19:29:14,424 [INFO] stage_update: Saved 513100.SH CSV -> data\513100_SH.csv
+2025-11-21 19:29:16,132 [INFO] stage_update: 518880.SH 已有至 2025-11-20, 增量起始 2025-11-21 -> 2025-11-21
+2025-11-21 19:29:16,211 [INFO] stage_update: Fetching slice 518880.SH from 20251121 to 20251121...
+2025-11-21 19:29:16,211 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-21 19:29:16,288 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-21 19:29:16,365 [INFO] stage_update: Saved 518880.SH CSV -> data\518880_SH.csv
+2025-11-21 19:29:18,370 [INFO] stage_update: Update stage completed.
+2025-11-21 19:29:18,371 [INFO] main: Pipeline completed.
+2025-11-21 19:31:13,027 [INFO] backtest: Price frame prepared: 2024-11-20 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 19:31:13,097 [INFO] report: Metrics: AR=15.87%, Vol=7.93%, Sharpe=1.96, MDD=-4.61%
+2025-11-21 19:31:13,098 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-21 19:31:14,871 [INFO] viz: Figure prepared. MDD=-4.61% from 2025-11-13 to 2025-11-21
+2025-11-21 19:31:16,658 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-21 19:31:16,663 [INFO] stage_backtest: Holdings saved to reports\holdings_daily.csv
+2025-11-21 19:31:16,665 [INFO] stage_backtest: Events saved to reports\rebalance_events.csv
+2025-11-21 19:31:16,665 [INFO] main: Pipeline completed.
+2025-11-21 19:35:05,603 [INFO] backtest: Price frame prepared: 2014-11-21 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 19:35:07,542 [INFO] report: Metrics: AR=11.26%, Vol=7.70%, Sharpe=1.48, MDD=-11.83%
+2025-11-21 19:35:07,543 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-21 19:35:07,728 [INFO] viz: Figure prepared. MDD=-11.83% from 2015-06-08 to 2016-01-20
+2025-11-21 19:35:07,754 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-21 19:35:07,769 [INFO] stage_backtest: Holdings saved to reports\holdings_daily.csv
+2025-11-21 19:35:07,774 [INFO] stage_backtest: Events saved to reports\rebalance_events.csv
+2025-11-21 19:35:07,774 [INFO] main: Pipeline completed.
+2025-11-21 20:09:57,847 [INFO] backtest: Price frame prepared: 2015-06-01 00:00:00 -> 2015-09-30 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 20:09:57,862 [INFO] report: Metrics: AR=-15.87%, Vol=10.10%, Sharpe=-1.63, MDD=-7.25%
+2025-11-21 20:09:57,862 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-21 20:09:58,137 [INFO] viz: Figure prepared. MDD=-7.25% from 2015-06-08 to 2015-08-25
+2025-11-21 20:09:59,910 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-21 20:09:59,914 [INFO] stage_backtest: Holdings saved to reports\holdings_daily.csv
+2025-11-21 20:09:59,914 [INFO] stage_backtest: Events saved to 
+2025-11-21 20:09:59,914 [INFO] main: Pipeline completed.
+2025-11-21 20:14:14,172 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 20:14:16,416 [INFO] report: Metrics: AR=13.51%, Vol=6.83%, Sharpe=1.96, MDD=-7.05%
+2025-11-21 20:14:16,417 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-21 20:14:16,615 [INFO] viz: Figure prepared. MDD=-7.05% from 2015-06-08 to 2015-09-15
+2025-11-21 20:14:16,650 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-21 20:14:16,667 [INFO] stage_backtest: Holdings saved to reports\holdings_daily.csv
+2025-11-21 20:14:16,678 [INFO] stage_backtest: Events saved to reports\rebalance_events.csv
+2025-11-21 20:14:16,679 [INFO] main: Pipeline completed.
+2025-11-21 21:26:15,598 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:17,973 [INFO] report: Metrics: AR=13.24%, Vol=6.52%, Sharpe=2.01, MDD=-6.75%
+2025-11-21 21:26:17,974 [INFO] stage_gridsearch: GS 30-80-180 AR=13.24% Sharpe=2.01 MDD=-6.75%
+2025-11-21 21:26:17,984 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:20,355 [INFO] report: Metrics: AR=13.65%, Vol=6.55%, Sharpe=2.06, MDD=-6.75%
+2025-11-21 21:26:20,355 [INFO] stage_gridsearch: GS 30-80-200 AR=13.65% Sharpe=2.06 MDD=-6.75%
+2025-11-21 21:26:20,371 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:22,714 [INFO] report: Metrics: AR=13.31%, Vol=6.41%, Sharpe=2.05, MDD=-6.75%
+2025-11-21 21:26:22,714 [INFO] stage_gridsearch: GS 30-80-250 AR=13.31% Sharpe=2.05 MDD=-6.75%
+2025-11-21 21:26:22,725 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:25,286 [INFO] report: Metrics: AR=13.55%, Vol=6.47%, Sharpe=2.07, MDD=-6.91%
+2025-11-21 21:26:25,287 [INFO] stage_gridsearch: GS 30-100-180 AR=13.55% Sharpe=2.07 MDD=-6.91%
+2025-11-21 21:26:25,297 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:27,587 [INFO] report: Metrics: AR=13.72%, Vol=6.49%, Sharpe=2.09, MDD=-6.91%
+2025-11-21 21:26:27,587 [INFO] stage_gridsearch: GS 30-100-200 AR=13.72% Sharpe=2.09 MDD=-6.91%
+2025-11-21 21:26:27,598 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:29,774 [INFO] report: Metrics: AR=13.48%, Vol=6.38%, Sharpe=2.09, MDD=-6.91%
+2025-11-21 21:26:29,775 [INFO] stage_gridsearch: GS 30-100-250 AR=13.48% Sharpe=2.09 MDD=-6.91%
+2025-11-21 21:26:29,785 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:31,980 [INFO] report: Metrics: AR=13.99%, Vol=6.51%, Sharpe=2.12, MDD=-6.99%
+2025-11-21 21:26:31,981 [INFO] stage_gridsearch: GS 30-120-180 AR=13.99% Sharpe=2.12 MDD=-6.99%
+2025-11-21 21:26:31,991 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:34,246 [INFO] report: Metrics: AR=14.00%, Vol=6.52%, Sharpe=2.12, MDD=-6.99%
+2025-11-21 21:26:34,247 [INFO] stage_gridsearch: GS 30-120-200 AR=14.00% Sharpe=2.12 MDD=-6.99%
+2025-11-21 21:26:34,257 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:36,418 [INFO] report: Metrics: AR=13.56%, Vol=6.43%, Sharpe=2.08, MDD=-6.99%
+2025-11-21 21:26:36,419 [INFO] stage_gridsearch: GS 30-120-250 AR=13.56% Sharpe=2.08 MDD=-6.99%
+2025-11-21 21:26:36,431 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:38,887 [INFO] report: Metrics: AR=13.21%, Vol=6.75%, Sharpe=1.94, MDD=-6.96%
+2025-11-21 21:26:38,888 [INFO] stage_gridsearch: GS 40-80-180 AR=13.21% Sharpe=1.94 MDD=-6.96%
+2025-11-21 21:26:38,905 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:41,322 [INFO] report: Metrics: AR=13.58%, Vol=6.76%, Sharpe=1.99, MDD=-7.02%
+2025-11-21 21:26:41,322 [INFO] stage_gridsearch: GS 40-80-200 AR=13.58% Sharpe=1.99 MDD=-7.02%
+2025-11-21 21:26:41,333 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:43,636 [INFO] report: Metrics: AR=13.37%, Vol=6.60%, Sharpe=2.00, MDD=-7.21%
+2025-11-21 21:26:43,636 [INFO] stage_gridsearch: GS 40-80-250 AR=13.37% Sharpe=2.00 MDD=-7.21%
+2025-11-21 21:26:43,647 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:46,051 [INFO] report: Metrics: AR=13.36%, Vol=6.65%, Sharpe=1.99, MDD=-7.00%
+2025-11-21 21:26:46,051 [INFO] stage_gridsearch: GS 40-100-180 AR=13.36% Sharpe=1.99 MDD=-7.00%
+2025-11-21 21:26:46,064 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:48,470 [INFO] report: Metrics: AR=13.43%, Vol=6.67%, Sharpe=1.99, MDD=-7.02%
+2025-11-21 21:26:48,470 [INFO] stage_gridsearch: GS 40-100-200 AR=13.43% Sharpe=1.99 MDD=-7.02%
+2025-11-21 21:26:48,480 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:50,868 [INFO] report: Metrics: AR=13.35%, Vol=6.53%, Sharpe=2.02, MDD=-7.21%
+2025-11-21 21:26:50,868 [INFO] stage_gridsearch: GS 40-100-250 AR=13.35% Sharpe=2.02 MDD=-7.21%
+2025-11-21 21:26:50,880 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:53,204 [INFO] report: Metrics: AR=13.73%, Vol=6.71%, Sharpe=2.02, MDD=-7.00%
+2025-11-21 21:26:53,204 [INFO] stage_gridsearch: GS 40-120-180 AR=13.73% Sharpe=2.02 MDD=-7.00%
+2025-11-21 21:26:53,214 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:55,485 [INFO] report: Metrics: AR=13.85%, Vol=6.71%, Sharpe=2.04, MDD=-7.00%
+2025-11-21 21:26:55,486 [INFO] stage_gridsearch: GS 40-120-200 AR=13.85% Sharpe=2.04 MDD=-7.00%
+2025-11-21 21:26:55,496 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:57,676 [INFO] report: Metrics: AR=13.52%, Vol=6.59%, Sharpe=2.03, MDD=-7.00%
+2025-11-21 21:26:57,676 [INFO] stage_gridsearch: GS 40-120-250 AR=13.52% Sharpe=2.03 MDD=-7.00%
+2025-11-21 21:26:57,687 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:26:59,914 [INFO] report: Metrics: AR=12.76%, Vol=6.95%, Sharpe=1.83, MDD=-7.85%
+2025-11-21 21:26:59,914 [INFO] stage_gridsearch: GS 50-80-180 AR=12.76% Sharpe=1.83 MDD=-7.85%
+2025-11-21 21:26:59,925 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:02,001 [INFO] report: Metrics: AR=13.17%, Vol=6.96%, Sharpe=1.88, MDD=-7.85%
+2025-11-21 21:27:02,001 [INFO] stage_gridsearch: GS 50-80-200 AR=13.17% Sharpe=1.88 MDD=-7.85%
+2025-11-21 21:27:02,012 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:04,459 [INFO] report: Metrics: AR=12.92%, Vol=6.77%, Sharpe=1.89, MDD=-8.37%
+2025-11-21 21:27:04,460 [INFO] stage_gridsearch: GS 50-80-250 AR=12.92% Sharpe=1.89 MDD=-8.37%
+2025-11-21 21:27:04,476 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:06,857 [INFO] report: Metrics: AR=13.28%, Vol=6.81%, Sharpe=1.93, MDD=-6.96%
+2025-11-21 21:27:06,857 [INFO] stage_gridsearch: GS 50-100-180 AR=13.28% Sharpe=1.93 MDD=-6.96%
+2025-11-21 21:27:06,868 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:09,188 [INFO] report: Metrics: AR=13.51%, Vol=6.83%, Sharpe=1.96, MDD=-7.05%
+2025-11-21 21:27:09,189 [INFO] stage_gridsearch: GS 50-100-200 AR=13.51% Sharpe=1.96 MDD=-7.05%
+2025-11-21 21:27:09,199 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:11,509 [INFO] report: Metrics: AR=13.14%, Vol=6.69%, Sharpe=1.95, MDD=-7.25%
+2025-11-21 21:27:11,509 [INFO] stage_gridsearch: GS 50-100-250 AR=13.14% Sharpe=1.95 MDD=-7.25%
+2025-11-21 21:27:11,521 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:13,885 [INFO] report: Metrics: AR=13.35%, Vol=6.85%, Sharpe=1.93, MDD=-6.96%
+2025-11-21 21:27:13,885 [INFO] stage_gridsearch: GS 50-120-180 AR=13.35% Sharpe=1.93 MDD=-6.96%
+2025-11-21 21:27:13,898 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:16,289 [INFO] report: Metrics: AR=13.61%, Vol=6.87%, Sharpe=1.96, MDD=-6.96%
+2025-11-21 21:27:16,289 [INFO] stage_gridsearch: GS 50-120-200 AR=13.61% Sharpe=1.96 MDD=-6.96%
+2025-11-21 21:27:16,300 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:18,570 [INFO] report: Metrics: AR=13.20%, Vol=6.73%, Sharpe=1.94, MDD=-7.03%
+2025-11-21 21:27:18,570 [INFO] stage_gridsearch: GS 50-120-250 AR=13.20% Sharpe=1.94 MDD=-7.03%
+2025-11-21 21:27:18,581 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:20,902 [INFO] report: Metrics: AR=12.48%, Vol=7.10%, Sharpe=1.75, MDD=-9.09%
+2025-11-21 21:27:20,902 [INFO] stage_gridsearch: GS 60-80-180 AR=12.48% Sharpe=1.75 MDD=-9.09%
+2025-11-21 21:27:20,913 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:23,264 [INFO] report: Metrics: AR=12.91%, Vol=7.11%, Sharpe=1.81, MDD=-9.09%
+2025-11-21 21:27:23,264 [INFO] stage_gridsearch: GS 60-80-200 AR=12.91% Sharpe=1.81 MDD=-9.09%
+2025-11-21 21:27:23,276 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:25,584 [INFO] report: Metrics: AR=12.57%, Vol=6.92%, Sharpe=1.81, MDD=-9.81%
+2025-11-21 21:27:25,585 [INFO] stage_gridsearch: GS 60-80-250 AR=12.57% Sharpe=1.81 MDD=-9.81%
+2025-11-21 21:27:25,595 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:27,928 [INFO] report: Metrics: AR=12.81%, Vol=6.97%, Sharpe=1.83, MDD=-8.97%
+2025-11-21 21:27:27,928 [INFO] stage_gridsearch: GS 60-100-180 AR=12.81% Sharpe=1.83 MDD=-8.97%
+2025-11-21 21:27:27,938 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:30,326 [INFO] report: Metrics: AR=13.07%, Vol=7.00%, Sharpe=1.85, MDD=-8.97%
+2025-11-21 21:27:30,327 [INFO] stage_gridsearch: GS 60-100-200 AR=13.07% Sharpe=1.85 MDD=-8.97%
+2025-11-21 21:27:30,337 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:32,618 [INFO] report: Metrics: AR=12.83%, Vol=6.85%, Sharpe=1.86, MDD=-8.42%
+2025-11-21 21:27:32,619 [INFO] stage_gridsearch: GS 60-100-250 AR=12.83% Sharpe=1.86 MDD=-8.42%
+2025-11-21 21:27:32,629 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:34,965 [INFO] report: Metrics: AR=13.19%, Vol=6.98%, Sharpe=1.87, MDD=-7.60%
+2025-11-21 21:27:34,965 [INFO] stage_gridsearch: GS 60-120-180 AR=13.19% Sharpe=1.87 MDD=-7.60%
+2025-11-21 21:27:34,975 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:37,385 [INFO] report: Metrics: AR=13.44%, Vol=7.00%, Sharpe=1.90, MDD=-7.65%
+2025-11-21 21:27:37,385 [INFO] stage_gridsearch: GS 60-120-200 AR=13.44% Sharpe=1.90 MDD=-7.65%
+2025-11-21 21:27:37,400 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:39,753 [INFO] report: Metrics: AR=13.05%, Vol=6.85%, Sharpe=1.89, MDD=-8.27%
+2025-11-21 21:27:39,753 [INFO] stage_gridsearch: GS 60-120-250 AR=13.05% Sharpe=1.89 MDD=-8.27%
+2025-11-21 21:27:55,585 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2015-12-31 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:27:55,866 [INFO] report: Metrics: AR=14.85%, Vol=7.14%, Sharpe=2.03, MDD=-7.05%
+2025-11-21 21:27:55,867 [INFO] stage_gridsearch: GS 50-100-200 AR=14.85% Sharpe=2.03 MDD=-7.05%
+2025-11-21 21:28:34,888 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2015-12-31 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:28:35,168 [INFO] report: Metrics: AR=14.85%, Vol=7.14%, Sharpe=2.03, MDD=-7.05%
+2025-11-21 21:28:35,168 [INFO] stage_gridsearch: GS 50-100-200 AR=14.85% Sharpe=2.03 MDD=-7.05%
+2025-11-21 21:28:35,171 [INFO] stage_gridsearch: GridSearch saved to reports\gridsearch_sma.csv
+2025-11-21 21:28:35,172 [INFO] main: Pipeline completed.
+2025-11-21 21:28:56,639 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:28:58,874 [INFO] report: Metrics: AR=13.24%, Vol=6.52%, Sharpe=2.01, MDD=-6.75%
+2025-11-21 21:28:58,874 [INFO] stage_gridsearch: GS 30-80-180 AR=13.24% Sharpe=2.01 MDD=-6.75%
+2025-11-21 21:28:58,884 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:01,082 [INFO] report: Metrics: AR=13.65%, Vol=6.55%, Sharpe=2.06, MDD=-6.75%
+2025-11-21 21:29:01,082 [INFO] stage_gridsearch: GS 30-80-200 AR=13.65% Sharpe=2.06 MDD=-6.75%
+2025-11-21 21:29:01,099 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:03,244 [INFO] report: Metrics: AR=13.31%, Vol=6.41%, Sharpe=2.05, MDD=-6.75%
+2025-11-21 21:29:03,244 [INFO] stage_gridsearch: GS 30-80-250 AR=13.31% Sharpe=2.05 MDD=-6.75%
+2025-11-21 21:29:03,256 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:05,431 [INFO] report: Metrics: AR=13.55%, Vol=6.47%, Sharpe=2.07, MDD=-6.91%
+2025-11-21 21:29:05,431 [INFO] stage_gridsearch: GS 30-100-180 AR=13.55% Sharpe=2.07 MDD=-6.91%
+2025-11-21 21:29:05,441 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:09,214 [INFO] report: Metrics: AR=13.72%, Vol=6.49%, Sharpe=2.09, MDD=-6.91%
+2025-11-21 21:29:09,215 [INFO] stage_gridsearch: GS 30-100-200 AR=13.72% Sharpe=2.09 MDD=-6.91%
+2025-11-21 21:29:09,234 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:15,495 [INFO] report: Metrics: AR=13.48%, Vol=6.38%, Sharpe=2.09, MDD=-6.91%
+2025-11-21 21:29:15,495 [INFO] stage_gridsearch: GS 30-100-250 AR=13.48% Sharpe=2.09 MDD=-6.91%
+2025-11-21 21:29:15,506 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:17,728 [INFO] report: Metrics: AR=13.99%, Vol=6.51%, Sharpe=2.12, MDD=-6.99%
+2025-11-21 21:29:17,729 [INFO] stage_gridsearch: GS 30-120-180 AR=13.99% Sharpe=2.12 MDD=-6.99%
+2025-11-21 21:29:17,739 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:20,028 [INFO] report: Metrics: AR=14.00%, Vol=6.52%, Sharpe=2.12, MDD=-6.99%
+2025-11-21 21:29:20,028 [INFO] stage_gridsearch: GS 30-120-200 AR=14.00% Sharpe=2.12 MDD=-6.99%
+2025-11-21 21:29:20,038 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:22,344 [INFO] report: Metrics: AR=13.56%, Vol=6.43%, Sharpe=2.08, MDD=-6.99%
+2025-11-21 21:29:22,345 [INFO] stage_gridsearch: GS 30-120-250 AR=13.56% Sharpe=2.08 MDD=-6.99%
+2025-11-21 21:29:22,356 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:25,088 [INFO] report: Metrics: AR=13.21%, Vol=6.75%, Sharpe=1.94, MDD=-6.96%
+2025-11-21 21:29:25,089 [INFO] stage_gridsearch: GS 40-80-180 AR=13.21% Sharpe=1.94 MDD=-6.96%
+2025-11-21 21:29:25,116 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:32,932 [INFO] report: Metrics: AR=13.58%, Vol=6.76%, Sharpe=1.99, MDD=-7.02%
+2025-11-21 21:29:32,932 [INFO] stage_gridsearch: GS 40-80-200 AR=13.58% Sharpe=1.99 MDD=-7.02%
+2025-11-21 21:29:32,967 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:37,424 [INFO] report: Metrics: AR=13.37%, Vol=6.60%, Sharpe=2.00, MDD=-7.21%
+2025-11-21 21:29:37,425 [INFO] stage_gridsearch: GS 40-80-250 AR=13.37% Sharpe=2.00 MDD=-7.21%
+2025-11-21 21:29:37,435 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:39,779 [INFO] report: Metrics: AR=13.36%, Vol=6.65%, Sharpe=1.99, MDD=-7.00%
+2025-11-21 21:29:39,779 [INFO] stage_gridsearch: GS 40-100-180 AR=13.36% Sharpe=1.99 MDD=-7.00%
+2025-11-21 21:29:39,792 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:42,038 [INFO] report: Metrics: AR=13.43%, Vol=6.67%, Sharpe=1.99, MDD=-7.02%
+2025-11-21 21:29:42,038 [INFO] stage_gridsearch: GS 40-100-200 AR=13.43% Sharpe=1.99 MDD=-7.02%
+2025-11-21 21:29:42,049 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:44,176 [INFO] report: Metrics: AR=13.35%, Vol=6.53%, Sharpe=2.02, MDD=-7.21%
+2025-11-21 21:29:44,177 [INFO] stage_gridsearch: GS 40-100-250 AR=13.35% Sharpe=2.02 MDD=-7.21%
+2025-11-21 21:29:44,187 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:47,559 [INFO] report: Metrics: AR=13.73%, Vol=6.71%, Sharpe=2.02, MDD=-7.00%
+2025-11-21 21:29:47,559 [INFO] stage_gridsearch: GS 40-120-180 AR=13.73% Sharpe=2.02 MDD=-7.00%
+2025-11-21 21:29:47,572 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:49,887 [INFO] report: Metrics: AR=13.85%, Vol=6.71%, Sharpe=2.04, MDD=-7.00%
+2025-11-21 21:29:49,887 [INFO] stage_gridsearch: GS 40-120-200 AR=13.85% Sharpe=2.04 MDD=-7.00%
+2025-11-21 21:29:49,899 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:51,957 [INFO] report: Metrics: AR=13.52%, Vol=6.59%, Sharpe=2.03, MDD=-7.00%
+2025-11-21 21:29:51,957 [INFO] stage_gridsearch: GS 40-120-250 AR=13.52% Sharpe=2.03 MDD=-7.00%
+2025-11-21 21:29:51,968 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:54,094 [INFO] report: Metrics: AR=12.76%, Vol=6.95%, Sharpe=1.83, MDD=-7.85%
+2025-11-21 21:29:54,094 [INFO] stage_gridsearch: GS 50-80-180 AR=12.76% Sharpe=1.83 MDD=-7.85%
+2025-11-21 21:29:54,104 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:56,248 [INFO] report: Metrics: AR=13.17%, Vol=6.96%, Sharpe=1.88, MDD=-7.85%
+2025-11-21 21:29:56,249 [INFO] stage_gridsearch: GS 50-80-200 AR=13.17% Sharpe=1.88 MDD=-7.85%
+2025-11-21 21:29:56,258 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:29:58,321 [INFO] report: Metrics: AR=12.92%, Vol=6.77%, Sharpe=1.89, MDD=-8.37%
+2025-11-21 21:29:58,322 [INFO] stage_gridsearch: GS 50-80-250 AR=12.92% Sharpe=1.89 MDD=-8.37%
+2025-11-21 21:29:58,339 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:00,457 [INFO] report: Metrics: AR=13.28%, Vol=6.81%, Sharpe=1.93, MDD=-6.96%
+2025-11-21 21:30:00,457 [INFO] stage_gridsearch: GS 50-100-180 AR=13.28% Sharpe=1.93 MDD=-6.96%
+2025-11-21 21:30:00,468 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:02,540 [INFO] report: Metrics: AR=13.51%, Vol=6.83%, Sharpe=1.96, MDD=-7.05%
+2025-11-21 21:30:02,540 [INFO] stage_gridsearch: GS 50-100-200 AR=13.51% Sharpe=1.96 MDD=-7.05%
+2025-11-21 21:30:02,551 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:04,621 [INFO] report: Metrics: AR=13.14%, Vol=6.69%, Sharpe=1.95, MDD=-7.25%
+2025-11-21 21:30:04,621 [INFO] stage_gridsearch: GS 50-100-250 AR=13.14% Sharpe=1.95 MDD=-7.25%
+2025-11-21 21:30:04,632 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:06,771 [INFO] report: Metrics: AR=13.35%, Vol=6.85%, Sharpe=1.93, MDD=-6.96%
+2025-11-21 21:30:06,771 [INFO] stage_gridsearch: GS 50-120-180 AR=13.35% Sharpe=1.93 MDD=-6.96%
+2025-11-21 21:30:06,782 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:08,906 [INFO] report: Metrics: AR=13.61%, Vol=6.87%, Sharpe=1.96, MDD=-6.96%
+2025-11-21 21:30:08,906 [INFO] stage_gridsearch: GS 50-120-200 AR=13.61% Sharpe=1.96 MDD=-6.96%
+2025-11-21 21:30:08,917 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:11,035 [INFO] report: Metrics: AR=13.20%, Vol=6.73%, Sharpe=1.94, MDD=-7.03%
+2025-11-21 21:30:11,035 [INFO] stage_gridsearch: GS 50-120-250 AR=13.20% Sharpe=1.94 MDD=-7.03%
+2025-11-21 21:30:11,045 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:13,294 [INFO] report: Metrics: AR=12.48%, Vol=7.10%, Sharpe=1.75, MDD=-9.09%
+2025-11-21 21:30:13,294 [INFO] stage_gridsearch: GS 60-80-180 AR=12.48% Sharpe=1.75 MDD=-9.09%
+2025-11-21 21:30:13,305 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:15,479 [INFO] report: Metrics: AR=12.91%, Vol=7.11%, Sharpe=1.81, MDD=-9.09%
+2025-11-21 21:30:15,479 [INFO] stage_gridsearch: GS 60-80-200 AR=12.91% Sharpe=1.81 MDD=-9.09%
+2025-11-21 21:30:15,489 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:17,514 [INFO] report: Metrics: AR=12.57%, Vol=6.92%, Sharpe=1.81, MDD=-9.81%
+2025-11-21 21:30:17,514 [INFO] stage_gridsearch: GS 60-80-250 AR=12.57% Sharpe=1.81 MDD=-9.81%
+2025-11-21 21:30:17,524 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:19,654 [INFO] report: Metrics: AR=12.81%, Vol=6.97%, Sharpe=1.83, MDD=-8.97%
+2025-11-21 21:30:19,654 [INFO] stage_gridsearch: GS 60-100-180 AR=12.81% Sharpe=1.83 MDD=-8.97%
+2025-11-21 21:30:19,665 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:21,816 [INFO] report: Metrics: AR=13.07%, Vol=7.00%, Sharpe=1.85, MDD=-8.97%
+2025-11-21 21:30:21,816 [INFO] stage_gridsearch: GS 60-100-200 AR=13.07% Sharpe=1.85 MDD=-8.97%
+2025-11-21 21:30:21,827 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:25,413 [INFO] report: Metrics: AR=12.83%, Vol=6.85%, Sharpe=1.86, MDD=-8.42%
+2025-11-21 21:30:25,414 [INFO] stage_gridsearch: GS 60-100-250 AR=12.83% Sharpe=1.86 MDD=-8.42%
+2025-11-21 21:30:25,453 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:34,214 [INFO] report: Metrics: AR=13.19%, Vol=6.98%, Sharpe=1.87, MDD=-7.60%
+2025-11-21 21:30:34,215 [INFO] stage_gridsearch: GS 60-120-180 AR=13.19% Sharpe=1.87 MDD=-7.60%
+2025-11-21 21:30:34,227 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:42,895 [INFO] report: Metrics: AR=13.44%, Vol=7.00%, Sharpe=1.90, MDD=-7.65%
+2025-11-21 21:30:42,897 [INFO] stage_gridsearch: GS 60-120-200 AR=13.44% Sharpe=1.90 MDD=-7.65%
+2025-11-21 21:30:42,918 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-21 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-21 21:30:47,222 [INFO] report: Metrics: AR=13.05%, Vol=6.85%, Sharpe=1.89, MDD=-8.27%
+2025-11-21 21:30:47,223 [INFO] stage_gridsearch: GS 60-120-250 AR=13.05% Sharpe=1.89 MDD=-8.27%
+2025-11-21 21:30:47,225 [INFO] stage_gridsearch: GridSearch saved to reports\gridsearch_sma.csv
+2025-11-21 21:30:47,226 [INFO] main: Pipeline completed.
+2025-11-25 17:41:09,400 [INFO] stage_update: 511010.SH 已有至 2025-11-21, 增量起始 2025-11-22 -> 2025-11-25
+2025-11-25 17:41:09,512 [INFO] stage_update: Fetching slice 511010.SH from 20251122 to 20251125...
+2025-11-25 17:41:09,513 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-25 17:41:09,593 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-25 17:41:09,677 [INFO] stage_update: Saved 511010.SH CSV -> data\511010_SH.csv
+2025-11-25 17:41:12,090 [INFO] stage_update: 511880.SH 已有至 2025-11-21, 增量起始 2025-11-22 -> 2025-11-25
+2025-11-25 17:41:12,192 [INFO] stage_update: Fetching slice 511880.SH from 20251122 to 20251125...
+2025-11-25 17:41:12,192 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-25 17:41:12,258 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-25 17:41:12,352 [INFO] stage_update: Saved 511880.SH CSV -> data\511880_SH.csv
+2025-11-25 17:41:15,317 [INFO] stage_update: 510300.SH 已有至 2025-11-21, 增量起始 2025-11-22 -> 2025-11-25
+2025-11-25 17:41:15,446 [INFO] stage_update: Fetching slice 510300.SH from 20251122 to 20251125...
+2025-11-25 17:41:15,447 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-25 17:41:15,556 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-25 17:41:15,651 [INFO] stage_update: Saved 510300.SH CSV -> data\510300_SH.csv
+2025-11-25 17:41:18,426 [INFO] stage_update: 513100.SH 已有至 2025-11-21, 增量起始 2025-11-22 -> 2025-11-25
+2025-11-25 17:41:18,513 [INFO] stage_update: Fetching slice 513100.SH from 20251122 to 20251125...
+2025-11-25 17:41:18,514 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-25 17:41:18,573 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-25 17:41:18,646 [INFO] stage_update: Saved 513100.SH CSV -> data\513100_SH.csv
+2025-11-25 17:41:20,695 [INFO] stage_update: 518880.SH 已有至 2025-11-21, 增量起始 2025-11-22 -> 2025-11-25
+2025-11-25 17:41:20,783 [INFO] stage_update: Fetching slice 518880.SH from 20251122 to 20251125...
+2025-11-25 17:41:20,784 [INFO] stage_update: Using fund_adj for adj_factor
+2025-11-25 17:41:20,843 [INFO] stage_update: Fetching fund_daily close (preferred)
+2025-11-25 17:41:20,935 [INFO] stage_update: Saved 518880.SH CSV -> data\518880_SH.csv
+2025-11-25 17:41:23,257 [INFO] stage_update: Update stage completed.
+2025-11-25 17:41:23,258 [INFO] main: Pipeline completed.
+2025-11-25 18:13:54,528 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:13:56,798 [INFO] report: Metrics: AR=13.83%, Vol=6.27%, Sharpe=2.17, MDD=-7.44%
+2025-11-25 18:13:56,798 [INFO] stage_gridsearch: GS 20-80-180 AR=13.83% Sharpe=2.17 MDD=-7.44%
+2025-11-25 18:13:56,808 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:13:59,139 [INFO] report: Metrics: AR=13.74%, Vol=6.38%, Sharpe=2.12, MDD=-9.30%
+2025-11-25 18:13:59,139 [INFO] stage_gridsearch: GS 20-80-190 AR=13.74% Sharpe=2.12 MDD=-9.30%
+2025-11-25 18:13:59,157 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:01,491 [INFO] report: Metrics: AR=13.84%, Vol=6.40%, Sharpe=2.13, MDD=-9.30%
+2025-11-25 18:14:01,491 [INFO] stage_gridsearch: GS 20-80-200 AR=13.84% Sharpe=2.13 MDD=-9.30%
+2025-11-25 18:14:01,503 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:03,807 [INFO] report: Metrics: AR=13.90%, Vol=6.39%, Sharpe=2.14, MDD=-9.30%
+2025-11-25 18:14:03,808 [INFO] stage_gridsearch: GS 20-80-210 AR=13.90% Sharpe=2.14 MDD=-9.30%
+2025-11-25 18:14:03,819 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:06,034 [INFO] report: Metrics: AR=13.80%, Vol=6.41%, Sharpe=2.12, MDD=-9.30%
+2025-11-25 18:14:06,034 [INFO] stage_gridsearch: GS 20-80-220 AR=13.80% Sharpe=2.12 MDD=-9.30%
+2025-11-25 18:14:06,046 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:08,217 [INFO] report: Metrics: AR=13.71%, Vol=6.34%, Sharpe=2.13, MDD=-9.30%
+2025-11-25 18:14:08,217 [INFO] stage_gridsearch: GS 20-80-230 AR=13.71% Sharpe=2.13 MDD=-9.30%
+2025-11-25 18:14:08,229 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:10,327 [INFO] report: Metrics: AR=13.64%, Vol=6.33%, Sharpe=2.13, MDD=-9.30%
+2025-11-25 18:14:10,327 [INFO] stage_gridsearch: GS 20-80-240 AR=13.64% Sharpe=2.13 MDD=-9.30%
+2025-11-25 18:14:10,338 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:12,447 [INFO] report: Metrics: AR=13.61%, Vol=6.26%, Sharpe=2.14, MDD=-9.30%
+2025-11-25 18:14:12,447 [INFO] stage_gridsearch: GS 20-80-250 AR=13.61% Sharpe=2.14 MDD=-9.30%
+2025-11-25 18:14:12,459 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:14,801 [INFO] report: Metrics: AR=13.80%, Vol=6.25%, Sharpe=2.17, MDD=-7.44%
+2025-11-25 18:14:14,801 [INFO] stage_gridsearch: GS 20-90-180 AR=13.80% Sharpe=2.17 MDD=-7.44%
+2025-11-25 18:14:14,813 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:17,069 [INFO] report: Metrics: AR=13.69%, Vol=6.36%, Sharpe=2.12, MDD=-9.30%
+2025-11-25 18:14:17,070 [INFO] stage_gridsearch: GS 20-90-190 AR=13.69% Sharpe=2.12 MDD=-9.30%
+2025-11-25 18:14:17,084 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:19,330 [INFO] report: Metrics: AR=13.64%, Vol=6.37%, Sharpe=2.11, MDD=-9.30%
+2025-11-25 18:14:19,330 [INFO] stage_gridsearch: GS 20-90-200 AR=13.64% Sharpe=2.11 MDD=-9.30%
+2025-11-25 18:14:19,341 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:21,647 [INFO] report: Metrics: AR=13.72%, Vol=6.35%, Sharpe=2.13, MDD=-9.30%
+2025-11-25 18:14:21,647 [INFO] stage_gridsearch: GS 20-90-210 AR=13.72% Sharpe=2.13 MDD=-9.30%
+2025-11-25 18:14:21,658 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:23,885 [INFO] report: Metrics: AR=13.65%, Vol=6.38%, Sharpe=2.11, MDD=-9.30%
+2025-11-25 18:14:23,885 [INFO] stage_gridsearch: GS 20-90-220 AR=13.65% Sharpe=2.11 MDD=-9.30%
+2025-11-25 18:14:23,897 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:26,074 [INFO] report: Metrics: AR=13.58%, Vol=6.31%, Sharpe=2.12, MDD=-9.30%
+2025-11-25 18:14:26,074 [INFO] stage_gridsearch: GS 20-90-230 AR=13.58% Sharpe=2.12 MDD=-9.30%
+2025-11-25 18:14:26,085 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:28,205 [INFO] report: Metrics: AR=13.56%, Vol=6.29%, Sharpe=2.13, MDD=-9.30%
+2025-11-25 18:14:28,205 [INFO] stage_gridsearch: GS 20-90-240 AR=13.56% Sharpe=2.13 MDD=-9.30%
+2025-11-25 18:14:28,216 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:30,375 [INFO] report: Metrics: AR=13.59%, Vol=6.23%, Sharpe=2.15, MDD=-9.30%
+2025-11-25 18:14:30,375 [INFO] stage_gridsearch: GS 20-90-250 AR=13.59% Sharpe=2.15 MDD=-9.30%
+2025-11-25 18:14:30,385 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:32,554 [INFO] report: Metrics: AR=13.76%, Vol=6.20%, Sharpe=2.18, MDD=-7.44%
+2025-11-25 18:14:32,554 [INFO] stage_gridsearch: GS 20-100-180 AR=13.76% Sharpe=2.18 MDD=-7.44%
+2025-11-25 18:14:32,571 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:34,714 [INFO] report: Metrics: AR=13.69%, Vol=6.31%, Sharpe=2.14, MDD=-8.87%
+2025-11-25 18:14:34,714 [INFO] stage_gridsearch: GS 20-100-190 AR=13.69% Sharpe=2.14 MDD=-8.87%
+2025-11-25 18:14:34,726 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:37,191 [INFO] report: Metrics: AR=13.64%, Vol=6.32%, Sharpe=2.13, MDD=-8.87%
+2025-11-25 18:14:37,191 [INFO] stage_gridsearch: GS 20-100-200 AR=13.64% Sharpe=2.13 MDD=-8.87%
+2025-11-25 18:14:37,202 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:39,501 [INFO] report: Metrics: AR=13.56%, Vol=6.31%, Sharpe=2.12, MDD=-8.87%
+2025-11-25 18:14:39,501 [INFO] stage_gridsearch: GS 20-100-210 AR=13.56% Sharpe=2.12 MDD=-8.87%
+2025-11-25 18:14:39,512 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:41,741 [INFO] report: Metrics: AR=13.53%, Vol=6.32%, Sharpe=2.11, MDD=-8.87%
+2025-11-25 18:14:41,741 [INFO] stage_gridsearch: GS 20-100-220 AR=13.53% Sharpe=2.11 MDD=-8.87%
+2025-11-25 18:14:41,753 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:44,015 [INFO] report: Metrics: AR=13.26%, Vol=6.27%, Sharpe=2.09, MDD=-8.87%
+2025-11-25 18:14:44,015 [INFO] stage_gridsearch: GS 20-100-230 AR=13.26% Sharpe=2.09 MDD=-8.87%
+2025-11-25 18:14:44,027 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:46,290 [INFO] report: Metrics: AR=13.44%, Vol=6.23%, Sharpe=2.13, MDD=-8.87%
+2025-11-25 18:14:46,290 [INFO] stage_gridsearch: GS 20-100-240 AR=13.44% Sharpe=2.13 MDD=-8.87%
+2025-11-25 18:14:46,302 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:48,472 [INFO] report: Metrics: AR=13.32%, Vol=6.23%, Sharpe=2.11, MDD=-8.87%
+2025-11-25 18:14:48,472 [INFO] stage_gridsearch: GS 20-100-250 AR=13.32% Sharpe=2.11 MDD=-8.87%
+2025-11-25 18:14:48,483 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:50,735 [INFO] report: Metrics: AR=13.82%, Vol=6.23%, Sharpe=2.19, MDD=-7.44%
+2025-11-25 18:14:50,735 [INFO] stage_gridsearch: GS 20-110-180 AR=13.82% Sharpe=2.19 MDD=-7.44%
+2025-11-25 18:14:50,746 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:53,054 [INFO] report: Metrics: AR=13.71%, Vol=6.33%, Sharpe=2.14, MDD=-8.87%
+2025-11-25 18:14:53,054 [INFO] stage_gridsearch: GS 20-110-190 AR=13.71% Sharpe=2.14 MDD=-8.87%
+2025-11-25 18:14:53,064 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:55,366 [INFO] report: Metrics: AR=13.68%, Vol=6.34%, Sharpe=2.13, MDD=-8.87%
+2025-11-25 18:14:55,366 [INFO] stage_gridsearch: GS 20-110-200 AR=13.68% Sharpe=2.13 MDD=-8.87%
+2025-11-25 18:14:55,377 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:57,648 [INFO] report: Metrics: AR=13.63%, Vol=6.33%, Sharpe=2.12, MDD=-8.87%
+2025-11-25 18:14:57,648 [INFO] stage_gridsearch: GS 20-110-210 AR=13.63% Sharpe=2.12 MDD=-8.87%
+2025-11-25 18:14:57,659 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:14:59,981 [INFO] report: Metrics: AR=13.59%, Vol=6.36%, Sharpe=2.11, MDD=-8.87%
+2025-11-25 18:14:59,981 [INFO] stage_gridsearch: GS 20-110-220 AR=13.59% Sharpe=2.11 MDD=-8.87%
+2025-11-25 18:14:59,992 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:04,872 [INFO] report: Metrics: AR=13.47%, Vol=6.28%, Sharpe=2.12, MDD=-8.87%
+2025-11-25 18:15:04,873 [INFO] stage_gridsearch: GS 20-110-230 AR=13.47% Sharpe=2.12 MDD=-8.87%
+2025-11-25 18:15:04,912 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:10,574 [INFO] report: Metrics: AR=13.58%, Vol=6.24%, Sharpe=2.15, MDD=-8.87%
+2025-11-25 18:15:10,574 [INFO] stage_gridsearch: GS 20-110-240 AR=13.58% Sharpe=2.15 MDD=-8.87%
+2025-11-25 18:15:10,585 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:13,114 [INFO] report: Metrics: AR=13.36%, Vol=6.23%, Sharpe=2.12, MDD=-8.87%
+2025-11-25 18:15:13,114 [INFO] stage_gridsearch: GS 20-110-250 AR=13.36% Sharpe=2.12 MDD=-8.87%
+2025-11-25 18:15:13,124 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:15,711 [INFO] report: Metrics: AR=13.84%, Vol=6.27%, Sharpe=2.17, MDD=-7.44%
+2025-11-25 18:15:15,711 [INFO] stage_gridsearch: GS 20-120-180 AR=13.84% Sharpe=2.17 MDD=-7.44%
+2025-11-25 18:15:15,729 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:18,162 [INFO] report: Metrics: AR=13.74%, Vol=6.37%, Sharpe=2.13, MDD=-9.03%
+2025-11-25 18:15:18,162 [INFO] stage_gridsearch: GS 20-120-190 AR=13.74% Sharpe=2.13 MDD=-9.03%
+2025-11-25 18:15:18,175 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:26,132 [INFO] report: Metrics: AR=13.76%, Vol=6.38%, Sharpe=2.13, MDD=-9.03%
+2025-11-25 18:15:26,134 [INFO] stage_gridsearch: GS 20-120-200 AR=13.76% Sharpe=2.13 MDD=-9.03%
+2025-11-25 18:15:26,178 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:37,644 [INFO] report: Metrics: AR=13.75%, Vol=6.37%, Sharpe=2.13, MDD=-9.03%
+2025-11-25 18:15:37,645 [INFO] stage_gridsearch: GS 20-120-210 AR=13.75% Sharpe=2.13 MDD=-9.03%
+2025-11-25 18:15:37,686 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:47,852 [INFO] report: Metrics: AR=13.58%, Vol=6.38%, Sharpe=2.10, MDD=-9.03%
+2025-11-25 18:15:47,852 [INFO] stage_gridsearch: GS 20-120-220 AR=13.58% Sharpe=2.10 MDD=-9.03%
+2025-11-25 18:15:47,864 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:50,246 [INFO] report: Metrics: AR=13.51%, Vol=6.31%, Sharpe=2.11, MDD=-9.03%
+2025-11-25 18:15:50,247 [INFO] stage_gridsearch: GS 20-120-230 AR=13.51% Sharpe=2.11 MDD=-9.03%
+2025-11-25 18:15:50,257 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:52,722 [INFO] report: Metrics: AR=13.57%, Vol=6.28%, Sharpe=2.13, MDD=-9.03%
+2025-11-25 18:15:52,722 [INFO] stage_gridsearch: GS 20-120-240 AR=13.57% Sharpe=2.13 MDD=-9.03%
+2025-11-25 18:15:52,734 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:55,051 [INFO] report: Metrics: AR=13.39%, Vol=6.27%, Sharpe=2.11, MDD=-9.03%
+2025-11-25 18:15:55,052 [INFO] stage_gridsearch: GS 20-120-250 AR=13.39% Sharpe=2.11 MDD=-9.03%
+2025-11-25 18:15:55,063 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:57,387 [INFO] report: Metrics: AR=13.30%, Vol=6.52%, Sharpe=2.02, MDD=-6.75%
+2025-11-25 18:15:57,387 [INFO] stage_gridsearch: GS 30-80-180 AR=13.30% Sharpe=2.02 MDD=-6.75%
+2025-11-25 18:15:57,402 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:15:59,674 [INFO] report: Metrics: AR=13.81%, Vol=6.54%, Sharpe=2.08, MDD=-6.75%
+2025-11-25 18:15:59,674 [INFO] stage_gridsearch: GS 30-80-190 AR=13.81% Sharpe=2.08 MDD=-6.75%
+2025-11-25 18:15:59,685 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:01,966 [INFO] report: Metrics: AR=13.71%, Vol=6.55%, Sharpe=2.07, MDD=-6.75%
+2025-11-25 18:16:01,966 [INFO] stage_gridsearch: GS 30-80-200 AR=13.71% Sharpe=2.07 MDD=-6.75%
+2025-11-25 18:16:01,978 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:04,222 [INFO] report: Metrics: AR=13.73%, Vol=6.54%, Sharpe=2.07, MDD=-6.75%
+2025-11-25 18:16:04,223 [INFO] stage_gridsearch: GS 30-80-210 AR=13.73% Sharpe=2.07 MDD=-6.75%
+2025-11-25 18:16:04,235 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:06,400 [INFO] report: Metrics: AR=13.62%, Vol=6.57%, Sharpe=2.05, MDD=-6.75%
+2025-11-25 18:16:06,400 [INFO] stage_gridsearch: GS 30-80-220 AR=13.62% Sharpe=2.05 MDD=-6.75%
+2025-11-25 18:16:06,410 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:08,702 [INFO] report: Metrics: AR=13.50%, Vol=6.50%, Sharpe=2.05, MDD=-6.75%
+2025-11-25 18:16:08,702 [INFO] stage_gridsearch: GS 30-80-230 AR=13.50% Sharpe=2.05 MDD=-6.75%
+2025-11-25 18:16:08,716 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:10,915 [INFO] report: Metrics: AR=13.42%, Vol=6.48%, Sharpe=2.05, MDD=-6.75%
+2025-11-25 18:16:10,915 [INFO] stage_gridsearch: GS 30-80-240 AR=13.42% Sharpe=2.05 MDD=-6.75%
+2025-11-25 18:16:10,926 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:13,142 [INFO] report: Metrics: AR=13.37%, Vol=6.41%, Sharpe=2.06, MDD=-6.75%
+2025-11-25 18:16:13,143 [INFO] stage_gridsearch: GS 30-80-250 AR=13.37% Sharpe=2.06 MDD=-6.75%
+2025-11-25 18:16:13,158 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:15,321 [INFO] report: Metrics: AR=13.57%, Vol=6.53%, Sharpe=2.05, MDD=-6.75%
+2025-11-25 18:16:15,322 [INFO] stage_gridsearch: GS 30-90-180 AR=13.57% Sharpe=2.05 MDD=-6.75%
+2025-11-25 18:16:15,333 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:17,468 [INFO] report: Metrics: AR=13.88%, Vol=6.54%, Sharpe=2.09, MDD=-6.75%
+2025-11-25 18:16:17,468 [INFO] stage_gridsearch: GS 30-90-190 AR=13.88% Sharpe=2.09 MDD=-6.75%
+2025-11-25 18:16:17,478 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:19,724 [INFO] report: Metrics: AR=13.74%, Vol=6.54%, Sharpe=2.07, MDD=-6.75%
+2025-11-25 18:16:19,725 [INFO] stage_gridsearch: GS 30-90-200 AR=13.74% Sharpe=2.07 MDD=-6.75%
+2025-11-25 18:16:19,736 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:21,926 [INFO] report: Metrics: AR=13.79%, Vol=6.52%, Sharpe=2.08, MDD=-6.75%
+2025-11-25 18:16:21,926 [INFO] stage_gridsearch: GS 30-90-210 AR=13.79% Sharpe=2.08 MDD=-6.75%
+2025-11-25 18:16:21,937 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:24,113 [INFO] report: Metrics: AR=13.69%, Vol=6.55%, Sharpe=2.06, MDD=-6.75%
+2025-11-25 18:16:24,113 [INFO] stage_gridsearch: GS 30-90-220 AR=13.69% Sharpe=2.06 MDD=-6.75%
+2025-11-25 18:16:24,124 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:26,230 [INFO] report: Metrics: AR=13.57%, Vol=6.48%, Sharpe=2.07, MDD=-6.75%
+2025-11-25 18:16:26,230 [INFO] stage_gridsearch: GS 30-90-230 AR=13.57% Sharpe=2.07 MDD=-6.75%
+2025-11-25 18:16:26,241 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:28,390 [INFO] report: Metrics: AR=13.50%, Vol=6.46%, Sharpe=2.06, MDD=-6.75%
+2025-11-25 18:16:28,390 [INFO] stage_gridsearch: GS 30-90-240 AR=13.50% Sharpe=2.06 MDD=-6.75%
+2025-11-25 18:16:28,401 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:30,598 [INFO] report: Metrics: AR=13.53%, Vol=6.39%, Sharpe=2.09, MDD=-6.75%
+2025-11-25 18:16:30,598 [INFO] stage_gridsearch: GS 30-90-250 AR=13.53% Sharpe=2.09 MDD=-6.75%
+2025-11-25 18:16:30,608 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:32,842 [INFO] report: Metrics: AR=13.61%, Vol=6.47%, Sharpe=2.08, MDD=-6.91%
+2025-11-25 18:16:32,842 [INFO] stage_gridsearch: GS 30-100-180 AR=13.61% Sharpe=2.08 MDD=-6.91%
+2025-11-25 18:16:32,852 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:34,966 [INFO] report: Metrics: AR=13.89%, Vol=6.48%, Sharpe=2.11, MDD=-6.91%
+2025-11-25 18:16:34,966 [INFO] stage_gridsearch: GS 30-100-190 AR=13.89% Sharpe=2.11 MDD=-6.91%
+2025-11-25 18:16:34,977 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:37,084 [INFO] report: Metrics: AR=13.79%, Vol=6.49%, Sharpe=2.10, MDD=-6.91%
+2025-11-25 18:16:37,084 [INFO] stage_gridsearch: GS 30-100-200 AR=13.79% Sharpe=2.10 MDD=-6.91%
+2025-11-25 18:16:37,094 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:39,236 [INFO] report: Metrics: AR=13.76%, Vol=6.48%, Sharpe=2.10, MDD=-6.91%
+2025-11-25 18:16:39,237 [INFO] stage_gridsearch: GS 30-100-210 AR=13.76% Sharpe=2.10 MDD=-6.91%
+2025-11-25 18:16:39,253 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:41,419 [INFO] report: Metrics: AR=13.67%, Vol=6.50%, Sharpe=2.08, MDD=-6.91%
+2025-11-25 18:16:41,420 [INFO] stage_gridsearch: GS 30-100-220 AR=13.67% Sharpe=2.08 MDD=-6.91%
+2025-11-25 18:16:41,430 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:43,596 [INFO] report: Metrics: AR=13.48%, Vol=6.42%, Sharpe=2.07, MDD=-6.91%
+2025-11-25 18:16:43,597 [INFO] stage_gridsearch: GS 30-100-230 AR=13.48% Sharpe=2.07 MDD=-6.91%
+2025-11-25 18:16:43,608 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:45,706 [INFO] report: Metrics: AR=13.66%, Vol=6.39%, Sharpe=2.11, MDD=-6.91%
+2025-11-25 18:16:45,707 [INFO] stage_gridsearch: GS 30-100-240 AR=13.66% Sharpe=2.11 MDD=-6.91%
+2025-11-25 18:16:45,718 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:47,787 [INFO] report: Metrics: AR=13.54%, Vol=6.38%, Sharpe=2.10, MDD=-6.91%
+2025-11-25 18:16:47,788 [INFO] stage_gridsearch: GS 30-100-250 AR=13.54% Sharpe=2.10 MDD=-6.91%
+2025-11-25 18:16:47,798 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:49,987 [INFO] report: Metrics: AR=13.83%, Vol=6.46%, Sharpe=2.11, MDD=-6.91%
+2025-11-25 18:16:49,987 [INFO] stage_gridsearch: GS 30-110-180 AR=13.83% Sharpe=2.11 MDD=-6.91%
+2025-11-25 18:16:49,998 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:52,210 [INFO] report: Metrics: AR=13.94%, Vol=6.47%, Sharpe=2.12, MDD=-6.91%
+2025-11-25 18:16:52,211 [INFO] stage_gridsearch: GS 30-110-190 AR=13.94% Sharpe=2.12 MDD=-6.91%
+2025-11-25 18:16:52,223 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:54,371 [INFO] report: Metrics: AR=13.84%, Vol=6.48%, Sharpe=2.11, MDD=-6.91%
+2025-11-25 18:16:54,372 [INFO] stage_gridsearch: GS 30-110-200 AR=13.84% Sharpe=2.11 MDD=-6.91%
+2025-11-25 18:16:54,383 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:56,490 [INFO] report: Metrics: AR=13.82%, Vol=6.47%, Sharpe=2.11, MDD=-6.91%
+2025-11-25 18:16:56,490 [INFO] stage_gridsearch: GS 30-110-210 AR=13.82% Sharpe=2.11 MDD=-6.91%
+2025-11-25 18:16:56,501 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:16:58,591 [INFO] report: Metrics: AR=13.73%, Vol=6.49%, Sharpe=2.09, MDD=-6.91%
+2025-11-25 18:16:58,591 [INFO] stage_gridsearch: GS 30-110-220 AR=13.73% Sharpe=2.09 MDD=-6.91%
+2025-11-25 18:16:58,602 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:00,692 [INFO] report: Metrics: AR=13.65%, Vol=6.43%, Sharpe=2.10, MDD=-6.91%
+2025-11-25 18:17:00,692 [INFO] stage_gridsearch: GS 30-110-230 AR=13.65% Sharpe=2.10 MDD=-6.91%
+2025-11-25 18:17:00,702 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:02,846 [INFO] report: Metrics: AR=13.71%, Vol=6.39%, Sharpe=2.12, MDD=-6.91%
+2025-11-25 18:17:02,847 [INFO] stage_gridsearch: GS 30-110-240 AR=13.71% Sharpe=2.12 MDD=-6.91%
+2025-11-25 18:17:02,858 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:04,994 [INFO] report: Metrics: AR=13.41%, Vol=6.40%, Sharpe=2.07, MDD=-6.91%
+2025-11-25 18:17:04,994 [INFO] stage_gridsearch: GS 30-110-250 AR=13.41% Sharpe=2.07 MDD=-6.91%
+2025-11-25 18:17:05,005 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:07,187 [INFO] report: Metrics: AR=14.06%, Vol=6.51%, Sharpe=2.13, MDD=-6.99%
+2025-11-25 18:17:07,188 [INFO] stage_gridsearch: GS 30-120-180 AR=14.06% Sharpe=2.13 MDD=-6.99%
+2025-11-25 18:17:07,198 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:09,409 [INFO] report: Metrics: AR=14.13%, Vol=6.52%, Sharpe=2.13, MDD=-6.99%
+2025-11-25 18:17:09,409 [INFO] stage_gridsearch: GS 30-120-190 AR=14.13% Sharpe=2.13 MDD=-6.99%
+2025-11-25 18:17:09,421 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:11,760 [INFO] report: Metrics: AR=14.06%, Vol=6.52%, Sharpe=2.12, MDD=-6.99%
+2025-11-25 18:17:11,760 [INFO] stage_gridsearch: GS 30-120-200 AR=14.06% Sharpe=2.12 MDD=-6.99%
+2025-11-25 18:17:11,772 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:14,120 [INFO] report: Metrics: AR=14.08%, Vol=6.51%, Sharpe=2.13, MDD=-6.99%
+2025-11-25 18:17:14,121 [INFO] stage_gridsearch: GS 30-120-210 AR=14.08% Sharpe=2.13 MDD=-6.99%
+2025-11-25 18:17:14,137 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:23,579 [INFO] report: Metrics: AR=13.97%, Vol=6.53%, Sharpe=2.11, MDD=-6.99%
+2025-11-25 18:17:23,580 [INFO] stage_gridsearch: GS 30-120-220 AR=13.97% Sharpe=2.11 MDD=-6.99%
+2025-11-25 18:17:23,624 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:28,381 [INFO] report: Metrics: AR=13.86%, Vol=6.46%, Sharpe=2.12, MDD=-6.99%
+2025-11-25 18:17:28,382 [INFO] stage_gridsearch: GS 30-120-230 AR=13.86% Sharpe=2.12 MDD=-6.99%
+2025-11-25 18:17:28,393 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:30,896 [INFO] report: Metrics: AR=13.90%, Vol=6.42%, Sharpe=2.13, MDD=-6.99%
+2025-11-25 18:17:30,897 [INFO] stage_gridsearch: GS 30-120-240 AR=13.90% Sharpe=2.13 MDD=-6.99%
+2025-11-25 18:17:30,908 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:33,259 [INFO] report: Metrics: AR=13.62%, Vol=6.43%, Sharpe=2.09, MDD=-6.99%
+2025-11-25 18:17:33,260 [INFO] stage_gridsearch: GS 30-120-250 AR=13.62% Sharpe=2.09 MDD=-6.99%
+2025-11-25 18:17:33,271 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:35,707 [INFO] report: Metrics: AR=13.30%, Vol=6.75%, Sharpe=1.95, MDD=-6.96%
+2025-11-25 18:17:35,708 [INFO] stage_gridsearch: GS 40-80-180 AR=13.30% Sharpe=1.95 MDD=-6.96%
+2025-11-25 18:17:35,721 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:38,232 [INFO] report: Metrics: AR=13.80%, Vol=6.77%, Sharpe=2.01, MDD=-7.02%
+2025-11-25 18:17:38,233 [INFO] stage_gridsearch: GS 40-80-190 AR=13.80% Sharpe=2.01 MDD=-7.02%
+2025-11-25 18:17:38,244 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:40,798 [INFO] report: Metrics: AR=13.67%, Vol=6.77%, Sharpe=2.00, MDD=-7.02%
+2025-11-25 18:17:40,798 [INFO] stage_gridsearch: GS 40-80-200 AR=13.67% Sharpe=2.00 MDD=-7.02%
+2025-11-25 18:17:40,810 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:43,344 [INFO] report: Metrics: AR=13.69%, Vol=6.76%, Sharpe=2.00, MDD=-7.21%
+2025-11-25 18:17:43,344 [INFO] stage_gridsearch: GS 40-80-210 AR=13.69% Sharpe=2.00 MDD=-7.21%
+2025-11-25 18:17:43,356 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:45,779 [INFO] report: Metrics: AR=13.62%, Vol=6.77%, Sharpe=1.99, MDD=-7.21%
+2025-11-25 18:17:45,779 [INFO] stage_gridsearch: GS 40-80-220 AR=13.62% Sharpe=1.99 MDD=-7.21%
+2025-11-25 18:17:45,791 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:48,212 [INFO] report: Metrics: AR=13.55%, Vol=6.70%, Sharpe=2.00, MDD=-7.21%
+2025-11-25 18:17:48,212 [INFO] stage_gridsearch: GS 40-80-230 AR=13.55% Sharpe=2.00 MDD=-7.21%
+2025-11-25 18:17:48,223 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:50,523 [INFO] report: Metrics: AR=13.46%, Vol=6.67%, Sharpe=2.00, MDD=-7.21%
+2025-11-25 18:17:50,523 [INFO] stage_gridsearch: GS 40-80-240 AR=13.46% Sharpe=2.00 MDD=-7.21%
+2025-11-25 18:17:50,535 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:17:58,556 [INFO] report: Metrics: AR=13.46%, Vol=6.60%, Sharpe=2.02, MDD=-7.21%
+2025-11-25 18:17:58,556 [INFO] stage_gridsearch: GS 40-80-250 AR=13.46% Sharpe=2.02 MDD=-7.21%
+2025-11-25 18:17:58,574 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:18:08,718 [INFO] report: Metrics: AR=13.50%, Vol=6.74%, Sharpe=1.98, MDD=-6.96%
+2025-11-25 18:18:08,719 [INFO] stage_gridsearch: GS 40-90-180 AR=13.50% Sharpe=1.98 MDD=-6.96%
+2025-11-25 18:18:08,749 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:18:20,262 [INFO] report: Metrics: AR=13.71%, Vol=6.76%, Sharpe=2.01, MDD=-7.02%
+2025-11-25 18:18:20,263 [INFO] stage_gridsearch: GS 40-90-190 AR=13.71% Sharpe=2.01 MDD=-7.02%
+2025-11-25 18:18:20,309 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:18:32,850 [INFO] report: Metrics: AR=13.58%, Vol=6.75%, Sharpe=1.99, MDD=-7.02%
+2025-11-25 18:18:32,851 [INFO] stage_gridsearch: GS 40-90-200 AR=13.58% Sharpe=1.99 MDD=-7.02%
+2025-11-25 18:18:32,893 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:18:45,009 [INFO] report: Metrics: AR=13.63%, Vol=6.74%, Sharpe=2.00, MDD=-7.21%
+2025-11-25 18:18:45,011 [INFO] stage_gridsearch: GS 40-90-210 AR=13.63% Sharpe=2.00 MDD=-7.21%
+2025-11-25 18:18:45,055 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:18:57,415 [INFO] report: Metrics: AR=13.56%, Vol=6.75%, Sharpe=1.99, MDD=-7.21%
+2025-11-25 18:18:57,416 [INFO] stage_gridsearch: GS 40-90-220 AR=13.56% Sharpe=1.99 MDD=-7.21%
+2025-11-25 18:18:57,470 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:07,802 [INFO] report: Metrics: AR=13.51%, Vol=6.68%, Sharpe=2.00, MDD=-7.21%
+2025-11-25 18:19:07,803 [INFO] stage_gridsearch: GS 40-90-230 AR=13.51% Sharpe=2.00 MDD=-7.21%
+2025-11-25 18:19:07,833 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:12,918 [INFO] report: Metrics: AR=13.44%, Vol=6.65%, Sharpe=2.00, MDD=-7.21%
+2025-11-25 18:19:12,918 [INFO] stage_gridsearch: GS 40-90-240 AR=13.44% Sharpe=2.00 MDD=-7.21%
+2025-11-25 18:19:12,930 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:15,250 [INFO] report: Metrics: AR=13.54%, Vol=6.58%, Sharpe=2.03, MDD=-7.21%
+2025-11-25 18:19:15,250 [INFO] stage_gridsearch: GS 40-90-250 AR=13.54% Sharpe=2.03 MDD=-7.21%
+2025-11-25 18:19:15,260 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:17,713 [INFO] report: Metrics: AR=13.45%, Vol=6.66%, Sharpe=2.00, MDD=-7.00%
+2025-11-25 18:19:17,714 [INFO] stage_gridsearch: GS 40-100-180 AR=13.45% Sharpe=2.00 MDD=-7.00%
+2025-11-25 18:19:17,724 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:20,155 [INFO] report: Metrics: AR=13.64%, Vol=6.68%, Sharpe=2.02, MDD=-7.02%
+2025-11-25 18:19:20,155 [INFO] stage_gridsearch: GS 40-100-190 AR=13.64% Sharpe=2.02 MDD=-7.02%
+2025-11-25 18:19:20,166 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:22,561 [INFO] report: Metrics: AR=13.53%, Vol=6.67%, Sharpe=2.00, MDD=-7.02%
+2025-11-25 18:19:22,561 [INFO] stage_gridsearch: GS 40-100-200 AR=13.53% Sharpe=2.00 MDD=-7.02%
+2025-11-25 18:19:22,573 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:24,914 [INFO] report: Metrics: AR=13.54%, Vol=6.66%, Sharpe=2.01, MDD=-7.21%
+2025-11-25 18:19:24,914 [INFO] stage_gridsearch: GS 40-100-210 AR=13.54% Sharpe=2.01 MDD=-7.21%
+2025-11-25 18:19:24,925 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:27,255 [INFO] report: Metrics: AR=13.45%, Vol=6.66%, Sharpe=2.00, MDD=-7.21%
+2025-11-25 18:19:27,256 [INFO] stage_gridsearch: GS 40-100-220 AR=13.45% Sharpe=2.00 MDD=-7.21%
+2025-11-25 18:19:27,268 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:29,661 [INFO] report: Metrics: AR=13.31%, Vol=6.60%, Sharpe=2.00, MDD=-7.21%
+2025-11-25 18:19:29,661 [INFO] stage_gridsearch: GS 40-100-230 AR=13.31% Sharpe=2.00 MDD=-7.21%
+2025-11-25 18:19:29,673 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:32,131 [INFO] report: Metrics: AR=13.49%, Vol=6.56%, Sharpe=2.03, MDD=-7.21%
+2025-11-25 18:19:32,132 [INFO] stage_gridsearch: GS 40-100-240 AR=13.49% Sharpe=2.03 MDD=-7.21%
+2025-11-25 18:19:32,146 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:34,490 [INFO] report: Metrics: AR=13.44%, Vol=6.54%, Sharpe=2.03, MDD=-7.21%
+2025-11-25 18:19:34,490 [INFO] stage_gridsearch: GS 40-100-250 AR=13.44% Sharpe=2.03 MDD=-7.21%
+2025-11-25 18:19:34,502 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:36,880 [INFO] report: Metrics: AR=13.72%, Vol=6.66%, Sharpe=2.03, MDD=-7.00%
+2025-11-25 18:19:36,881 [INFO] stage_gridsearch: GS 40-110-180 AR=13.72% Sharpe=2.03 MDD=-7.00%
+2025-11-25 18:19:36,891 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:39,195 [INFO] report: Metrics: AR=13.89%, Vol=6.68%, Sharpe=2.05, MDD=-7.02%
+2025-11-25 18:19:39,195 [INFO] stage_gridsearch: GS 40-110-190 AR=13.89% Sharpe=2.05 MDD=-7.02%
+2025-11-25 18:19:39,206 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:41,485 [INFO] report: Metrics: AR=13.80%, Vol=6.68%, Sharpe=2.04, MDD=-7.02%
+2025-11-25 18:19:41,485 [INFO] stage_gridsearch: GS 40-110-200 AR=13.80% Sharpe=2.04 MDD=-7.02%
+2025-11-25 18:19:41,496 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:43,768 [INFO] report: Metrics: AR=13.81%, Vol=6.67%, Sharpe=2.04, MDD=-7.21%
+2025-11-25 18:19:43,768 [INFO] stage_gridsearch: GS 40-110-210 AR=13.81% Sharpe=2.04 MDD=-7.21%
+2025-11-25 18:19:43,780 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:46,080 [INFO] report: Metrics: AR=13.73%, Vol=6.67%, Sharpe=2.03, MDD=-7.21%
+2025-11-25 18:19:46,080 [INFO] stage_gridsearch: GS 40-110-220 AR=13.73% Sharpe=2.03 MDD=-7.21%
+2025-11-25 18:19:46,092 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:48,339 [INFO] report: Metrics: AR=13.71%, Vol=6.61%, Sharpe=2.05, MDD=-7.21%
+2025-11-25 18:19:48,339 [INFO] stage_gridsearch: GS 40-110-230 AR=13.71% Sharpe=2.05 MDD=-7.21%
+2025-11-25 18:19:48,350 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:50,587 [INFO] report: Metrics: AR=13.73%, Vol=6.57%, Sharpe=2.06, MDD=-7.21%
+2025-11-25 18:19:50,588 [INFO] stage_gridsearch: GS 40-110-240 AR=13.73% Sharpe=2.06 MDD=-7.21%
+2025-11-25 18:19:50,599 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:52,898 [INFO] report: Metrics: AR=13.64%, Vol=6.56%, Sharpe=2.05, MDD=-7.21%
+2025-11-25 18:19:52,898 [INFO] stage_gridsearch: GS 40-110-250 AR=13.64% Sharpe=2.05 MDD=-7.21%
+2025-11-25 18:19:52,910 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:55,322 [INFO] report: Metrics: AR=13.82%, Vol=6.71%, Sharpe=2.03, MDD=-7.00%
+2025-11-25 18:19:55,322 [INFO] stage_gridsearch: GS 40-120-180 AR=13.82% Sharpe=2.03 MDD=-7.00%
+2025-11-25 18:19:55,334 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:19:57,724 [INFO] report: Metrics: AR=13.97%, Vol=6.73%, Sharpe=2.05, MDD=-7.00%
+2025-11-25 18:19:57,725 [INFO] stage_gridsearch: GS 40-120-190 AR=13.97% Sharpe=2.05 MDD=-7.00%
+2025-11-25 18:19:57,740 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:00,040 [INFO] report: Metrics: AR=13.94%, Vol=6.72%, Sharpe=2.05, MDD=-7.00%
+2025-11-25 18:20:00,040 [INFO] stage_gridsearch: GS 40-120-200 AR=13.94% Sharpe=2.05 MDD=-7.00%
+2025-11-25 18:20:00,051 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:02,337 [INFO] report: Metrics: AR=13.96%, Vol=6.70%, Sharpe=2.06, MDD=-7.00%
+2025-11-25 18:20:02,338 [INFO] stage_gridsearch: GS 40-120-210 AR=13.96% Sharpe=2.06 MDD=-7.00%
+2025-11-25 18:20:02,348 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:04,657 [INFO] report: Metrics: AR=13.86%, Vol=6.70%, Sharpe=2.04, MDD=-7.00%
+2025-11-25 18:20:04,657 [INFO] stage_gridsearch: GS 40-120-220 AR=13.86% Sharpe=2.04 MDD=-7.00%
+2025-11-25 18:20:04,667 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:06,984 [INFO] report: Metrics: AR=13.80%, Vol=6.64%, Sharpe=2.05, MDD=-7.00%
+2025-11-25 18:20:06,985 [INFO] stage_gridsearch: GS 40-120-230 AR=13.80% Sharpe=2.05 MDD=-7.00%
+2025-11-25 18:20:06,995 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:09,330 [INFO] report: Metrics: AR=13.80%, Vol=6.59%, Sharpe=2.06, MDD=-7.00%
+2025-11-25 18:20:09,331 [INFO] stage_gridsearch: GS 40-120-240 AR=13.80% Sharpe=2.06 MDD=-7.00%
+2025-11-25 18:20:09,344 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:11,608 [INFO] report: Metrics: AR=13.61%, Vol=6.60%, Sharpe=2.04, MDD=-7.00%
+2025-11-25 18:20:11,608 [INFO] stage_gridsearch: GS 40-120-250 AR=13.61% Sharpe=2.04 MDD=-7.00%
+2025-11-25 18:20:11,619 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:13,941 [INFO] report: Metrics: AR=12.85%, Vol=6.95%, Sharpe=1.84, MDD=-7.85%
+2025-11-25 18:20:13,941 [INFO] stage_gridsearch: GS 50-80-180 AR=12.85% Sharpe=1.84 MDD=-7.85%
+2025-11-25 18:20:13,951 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:16,339 [INFO] report: Metrics: AR=13.35%, Vol=6.97%, Sharpe=1.90, MDD=-8.07%
+2025-11-25 18:20:16,340 [INFO] stage_gridsearch: GS 50-80-190 AR=13.35% Sharpe=1.90 MDD=-8.07%
+2025-11-25 18:20:16,350 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:18,680 [INFO] report: Metrics: AR=13.26%, Vol=6.96%, Sharpe=1.89, MDD=-7.85%
+2025-11-25 18:20:18,681 [INFO] stage_gridsearch: GS 50-80-200 AR=13.26% Sharpe=1.89 MDD=-7.85%
+2025-11-25 18:20:18,691 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:21,066 [INFO] report: Metrics: AR=13.20%, Vol=6.94%, Sharpe=1.89, MDD=-8.11%
+2025-11-25 18:20:21,066 [INFO] stage_gridsearch: GS 50-80-210 AR=13.20% Sharpe=1.89 MDD=-8.11%
+2025-11-25 18:20:21,076 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:23,285 [INFO] report: Metrics: AR=13.13%, Vol=6.94%, Sharpe=1.88, MDD=-8.11%
+2025-11-25 18:20:23,285 [INFO] stage_gridsearch: GS 50-80-220 AR=13.13% Sharpe=1.88 MDD=-8.11%
+2025-11-25 18:20:23,296 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:25,478 [INFO] report: Metrics: AR=13.18%, Vol=6.89%, Sharpe=1.90, MDD=-8.11%
+2025-11-25 18:20:25,478 [INFO] stage_gridsearch: GS 50-80-230 AR=13.18% Sharpe=1.90 MDD=-8.11%
+2025-11-25 18:20:25,488 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:27,671 [INFO] report: Metrics: AR=12.99%, Vol=6.85%, Sharpe=1.88, MDD=-8.37%
+2025-11-25 18:20:27,672 [INFO] stage_gridsearch: GS 50-80-240 AR=12.99% Sharpe=1.88 MDD=-8.37%
+2025-11-25 18:20:27,681 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:29,910 [INFO] report: Metrics: AR=13.02%, Vol=6.78%, Sharpe=1.91, MDD=-8.37%
+2025-11-25 18:20:29,911 [INFO] stage_gridsearch: GS 50-80-250 AR=13.02% Sharpe=1.91 MDD=-8.37%
+2025-11-25 18:20:29,926 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:32,175 [INFO] report: Metrics: AR=13.04%, Vol=6.94%, Sharpe=1.87, MDD=-7.90%
+2025-11-25 18:20:32,175 [INFO] stage_gridsearch: GS 50-90-180 AR=13.04% Sharpe=1.87 MDD=-7.90%
+2025-11-25 18:20:32,186 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:34,530 [INFO] report: Metrics: AR=13.45%, Vol=6.96%, Sharpe=1.91, MDD=-8.13%
+2025-11-25 18:20:34,530 [INFO] stage_gridsearch: GS 50-90-190 AR=13.45% Sharpe=1.91 MDD=-8.13%
+2025-11-25 18:20:34,541 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:36,941 [INFO] report: Metrics: AR=13.36%, Vol=6.96%, Sharpe=1.90, MDD=-7.90%
+2025-11-25 18:20:36,942 [INFO] stage_gridsearch: GS 50-90-200 AR=13.36% Sharpe=1.90 MDD=-7.90%
+2025-11-25 18:20:36,954 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:39,168 [INFO] report: Metrics: AR=13.37%, Vol=6.93%, Sharpe=1.91, MDD=-8.17%
+2025-11-25 18:20:39,168 [INFO] stage_gridsearch: GS 50-90-210 AR=13.37% Sharpe=1.91 MDD=-8.17%
+2025-11-25 18:20:39,178 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:41,451 [INFO] report: Metrics: AR=13.31%, Vol=6.92%, Sharpe=1.91, MDD=-8.17%
+2025-11-25 18:20:41,451 [INFO] stage_gridsearch: GS 50-90-220 AR=13.31% Sharpe=1.91 MDD=-8.17%
+2025-11-25 18:20:41,461 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:43,902 [INFO] report: Metrics: AR=13.35%, Vol=6.87%, Sharpe=1.92, MDD=-8.17%
+2025-11-25 18:20:43,903 [INFO] stage_gridsearch: GS 50-90-230 AR=13.35% Sharpe=1.92 MDD=-8.17%
+2025-11-25 18:20:43,913 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:46,228 [INFO] report: Metrics: AR=13.14%, Vol=6.83%, Sharpe=1.91, MDD=-8.26%
+2025-11-25 18:20:46,228 [INFO] stage_gridsearch: GS 50-90-240 AR=13.14% Sharpe=1.91 MDD=-8.26%
+2025-11-25 18:20:46,242 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:48,539 [INFO] report: Metrics: AR=13.27%, Vol=6.76%, Sharpe=1.94, MDD=-8.26%
+2025-11-25 18:20:48,539 [INFO] stage_gridsearch: GS 50-90-250 AR=13.27% Sharpe=1.94 MDD=-8.26%
+2025-11-25 18:20:48,549 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:50,894 [INFO] report: Metrics: AR=13.37%, Vol=6.81%, Sharpe=1.94, MDD=-6.96%
+2025-11-25 18:20:50,894 [INFO] stage_gridsearch: GS 50-100-180 AR=13.37% Sharpe=1.94 MDD=-6.96%
+2025-11-25 18:20:50,905 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:53,213 [INFO] report: Metrics: AR=13.53%, Vol=6.83%, Sharpe=1.96, MDD=-7.05%
+2025-11-25 18:20:53,213 [INFO] stage_gridsearch: GS 50-100-190 AR=13.53% Sharpe=1.96 MDD=-7.05%
+2025-11-25 18:20:53,224 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:55,601 [INFO] report: Metrics: AR=13.60%, Vol=6.84%, Sharpe=1.97, MDD=-7.05%
+2025-11-25 18:20:55,602 [INFO] stage_gridsearch: GS 50-100-200 AR=13.60% Sharpe=1.97 MDD=-7.05%
+2025-11-25 18:20:55,612 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:20:57,917 [INFO] report: Metrics: AR=13.51%, Vol=6.81%, Sharpe=1.96, MDD=-7.25%
+2025-11-25 18:20:57,917 [INFO] stage_gridsearch: GS 50-100-210 AR=13.51% Sharpe=1.96 MDD=-7.25%
+2025-11-25 18:20:57,929 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:00,466 [INFO] report: Metrics: AR=13.46%, Vol=6.79%, Sharpe=1.96, MDD=-7.25%
+2025-11-25 18:21:00,466 [INFO] stage_gridsearch: GS 50-100-220 AR=13.46% Sharpe=1.96 MDD=-7.25%
+2025-11-25 18:21:00,477 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:02,852 [INFO] report: Metrics: AR=13.46%, Vol=6.74%, Sharpe=1.97, MDD=-7.25%
+2025-11-25 18:21:02,853 [INFO] stage_gridsearch: GS 50-100-230 AR=13.46% Sharpe=1.97 MDD=-7.25%
+2025-11-25 18:21:02,867 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:07,265 [INFO] report: Metrics: AR=13.31%, Vol=6.71%, Sharpe=1.97, MDD=-7.25%
+2025-11-25 18:21:07,265 [INFO] stage_gridsearch: GS 50-100-240 AR=13.31% Sharpe=1.97 MDD=-7.25%
+2025-11-25 18:21:07,282 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:11,244 [INFO] report: Metrics: AR=13.23%, Vol=6.69%, Sharpe=1.96, MDD=-7.25%
+2025-11-25 18:21:11,246 [INFO] stage_gridsearch: GS 50-100-250 AR=13.23% Sharpe=1.96 MDD=-7.25%
+2025-11-25 18:21:11,307 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:22,866 [INFO] report: Metrics: AR=13.50%, Vol=6.82%, Sharpe=1.96, MDD=-6.96%
+2025-11-25 18:21:22,867 [INFO] stage_gridsearch: GS 50-110-180 AR=13.50% Sharpe=1.96 MDD=-6.96%
+2025-11-25 18:21:22,911 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:26,490 [INFO] report: Metrics: AR=13.64%, Vol=6.84%, Sharpe=1.97, MDD=-7.05%
+2025-11-25 18:21:26,490 [INFO] stage_gridsearch: GS 50-110-190 AR=13.64% Sharpe=1.97 MDD=-7.05%
+2025-11-25 18:21:26,501 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:28,981 [INFO] report: Metrics: AR=13.70%, Vol=6.85%, Sharpe=1.98, MDD=-7.05%
+2025-11-25 18:21:28,981 [INFO] stage_gridsearch: GS 50-110-200 AR=13.70% Sharpe=1.98 MDD=-7.05%
+2025-11-25 18:21:28,991 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:31,382 [INFO] report: Metrics: AR=13.61%, Vol=6.83%, Sharpe=1.97, MDD=-7.25%
+2025-11-25 18:21:31,383 [INFO] stage_gridsearch: GS 50-110-210 AR=13.61% Sharpe=1.97 MDD=-7.25%
+2025-11-25 18:21:31,399 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:33,699 [INFO] report: Metrics: AR=13.60%, Vol=6.81%, Sharpe=1.97, MDD=-7.25%
+2025-11-25 18:21:33,699 [INFO] stage_gridsearch: GS 50-110-220 AR=13.60% Sharpe=1.97 MDD=-7.25%
+2025-11-25 18:21:33,710 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:36,038 [INFO] report: Metrics: AR=13.61%, Vol=6.76%, Sharpe=1.99, MDD=-7.25%
+2025-11-25 18:21:36,038 [INFO] stage_gridsearch: GS 50-110-230 AR=13.61% Sharpe=1.99 MDD=-7.25%
+2025-11-25 18:21:36,048 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:38,429 [INFO] report: Metrics: AR=13.41%, Vol=6.73%, Sharpe=1.97, MDD=-7.25%
+2025-11-25 18:21:38,430 [INFO] stage_gridsearch: GS 50-110-240 AR=13.41% Sharpe=1.97 MDD=-7.25%
+2025-11-25 18:21:38,446 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:43,397 [INFO] report: Metrics: AR=13.28%, Vol=6.72%, Sharpe=1.96, MDD=-7.25%
+2025-11-25 18:21:43,398 [INFO] stage_gridsearch: GS 50-110-250 AR=13.28% Sharpe=1.96 MDD=-7.25%
+2025-11-25 18:21:43,409 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:45,608 [INFO] report: Metrics: AR=13.44%, Vol=6.85%, Sharpe=1.94, MDD=-6.96%
+2025-11-25 18:21:45,608 [INFO] stage_gridsearch: GS 50-120-180 AR=13.44% Sharpe=1.94 MDD=-6.96%
+2025-11-25 18:21:45,619 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:47,824 [INFO] report: Metrics: AR=13.56%, Vol=6.87%, Sharpe=1.95, MDD=-6.96%
+2025-11-25 18:21:47,825 [INFO] stage_gridsearch: GS 50-120-190 AR=13.56% Sharpe=1.95 MDD=-6.96%
+2025-11-25 18:21:47,836 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:50,060 [INFO] report: Metrics: AR=13.70%, Vol=6.88%, Sharpe=1.97, MDD=-6.96%
+2025-11-25 18:21:50,061 [INFO] stage_gridsearch: GS 50-120-200 AR=13.70% Sharpe=1.97 MDD=-6.96%
+2025-11-25 18:21:50,073 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:52,396 [INFO] report: Metrics: AR=13.71%, Vol=6.85%, Sharpe=1.98, MDD=-6.96%
+2025-11-25 18:21:52,397 [INFO] stage_gridsearch: GS 50-120-210 AR=13.71% Sharpe=1.98 MDD=-6.96%
+2025-11-25 18:21:52,407 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:54,532 [INFO] report: Metrics: AR=13.68%, Vol=6.84%, Sharpe=1.98, MDD=-6.96%
+2025-11-25 18:21:54,533 [INFO] stage_gridsearch: GS 50-120-220 AR=13.68% Sharpe=1.98 MDD=-6.96%
+2025-11-25 18:21:54,543 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:56,716 [INFO] report: Metrics: AR=13.66%, Vol=6.78%, Sharpe=1.99, MDD=-6.96%
+2025-11-25 18:21:56,716 [INFO] stage_gridsearch: GS 50-120-230 AR=13.66% Sharpe=1.99 MDD=-6.96%
+2025-11-25 18:21:56,727 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:21:59,003 [INFO] report: Metrics: AR=13.40%, Vol=6.74%, Sharpe=1.97, MDD=-6.96%
+2025-11-25 18:21:59,004 [INFO] stage_gridsearch: GS 50-120-240 AR=13.40% Sharpe=1.97 MDD=-6.96%
+2025-11-25 18:21:59,013 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:01,143 [INFO] report: Metrics: AR=13.29%, Vol=6.74%, Sharpe=1.95, MDD=-7.03%
+2025-11-25 18:22:01,144 [INFO] stage_gridsearch: GS 50-120-250 AR=13.29% Sharpe=1.95 MDD=-7.03%
+2025-11-25 18:22:01,154 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:03,319 [INFO] report: Metrics: AR=12.61%, Vol=7.11%, Sharpe=1.77, MDD=-9.09%
+2025-11-25 18:22:03,320 [INFO] stage_gridsearch: GS 60-80-180 AR=12.61% Sharpe=1.77 MDD=-9.09%
+2025-11-25 18:22:03,331 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:05,532 [INFO] report: Metrics: AR=13.09%, Vol=7.12%, Sharpe=1.83, MDD=-9.31%
+2025-11-25 18:22:05,532 [INFO] stage_gridsearch: GS 60-80-190 AR=13.09% Sharpe=1.83 MDD=-9.31%
+2025-11-25 18:22:05,542 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:07,699 [INFO] report: Metrics: AR=13.04%, Vol=7.11%, Sharpe=1.82, MDD=-9.09%
+2025-11-25 18:22:07,699 [INFO] stage_gridsearch: GS 60-80-200 AR=13.04% Sharpe=1.82 MDD=-9.09%
+2025-11-25 18:22:07,716 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:09,934 [INFO] report: Metrics: AR=13.01%, Vol=7.09%, Sharpe=1.82, MDD=-9.35%
+2025-11-25 18:22:09,935 [INFO] stage_gridsearch: GS 60-80-210 AR=13.01% Sharpe=1.82 MDD=-9.35%
+2025-11-25 18:22:09,945 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:12,193 [INFO] report: Metrics: AR=12.91%, Vol=7.09%, Sharpe=1.81, MDD=-9.35%
+2025-11-25 18:22:12,193 [INFO] stage_gridsearch: GS 60-80-220 AR=12.91% Sharpe=1.81 MDD=-9.35%
+2025-11-25 18:22:12,203 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:14,444 [INFO] report: Metrics: AR=12.91%, Vol=7.03%, Sharpe=1.82, MDD=-9.25%
+2025-11-25 18:22:14,444 [INFO] stage_gridsearch: GS 60-80-230 AR=12.91% Sharpe=1.82 MDD=-9.25%
+2025-11-25 18:22:14,455 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:16,823 [INFO] report: Metrics: AR=12.71%, Vol=6.99%, Sharpe=1.81, MDD=-9.51%
+2025-11-25 18:22:16,823 [INFO] stage_gridsearch: GS 60-80-240 AR=12.71% Sharpe=1.81 MDD=-9.51%
+2025-11-25 18:22:16,834 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:19,004 [INFO] report: Metrics: AR=12.70%, Vol=6.93%, Sharpe=1.82, MDD=-9.81%
+2025-11-25 18:22:19,005 [INFO] stage_gridsearch: GS 60-80-250 AR=12.70% Sharpe=1.82 MDD=-9.81%
+2025-11-25 18:22:19,015 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:21,242 [INFO] report: Metrics: AR=12.88%, Vol=7.09%, Sharpe=1.81, MDD=-8.97%
+2025-11-25 18:22:21,243 [INFO] stage_gridsearch: GS 60-90-180 AR=12.88% Sharpe=1.81 MDD=-8.97%
+2025-11-25 18:22:21,253 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:23,449 [INFO] report: Metrics: AR=13.31%, Vol=7.11%, Sharpe=1.86, MDD=-9.19%
+2025-11-25 18:22:23,449 [INFO] stage_gridsearch: GS 60-90-190 AR=13.31% Sharpe=1.86 MDD=-9.19%
+2025-11-25 18:22:23,462 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:25,702 [INFO] report: Metrics: AR=13.24%, Vol=7.11%, Sharpe=1.85, MDD=-8.97%
+2025-11-25 18:22:25,703 [INFO] stage_gridsearch: GS 60-90-200 AR=13.24% Sharpe=1.85 MDD=-8.97%
+2025-11-25 18:22:25,714 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:27,854 [INFO] report: Metrics: AR=13.26%, Vol=7.08%, Sharpe=1.86, MDD=-9.23%
+2025-11-25 18:22:27,855 [INFO] stage_gridsearch: GS 60-90-210 AR=13.26% Sharpe=1.86 MDD=-9.23%
+2025-11-25 18:22:27,865 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:30,029 [INFO] report: Metrics: AR=13.16%, Vol=7.08%, Sharpe=1.85, MDD=-9.23%
+2025-11-25 18:22:30,029 [INFO] stage_gridsearch: GS 60-90-220 AR=13.16% Sharpe=1.85 MDD=-9.23%
+2025-11-25 18:22:30,040 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:32,158 [INFO] report: Metrics: AR=13.15%, Vol=7.03%, Sharpe=1.86, MDD=-9.30%
+2025-11-25 18:22:32,158 [INFO] stage_gridsearch: GS 60-90-230 AR=13.15% Sharpe=1.86 MDD=-9.30%
+2025-11-25 18:22:32,169 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:34,305 [INFO] report: Metrics: AR=12.95%, Vol=6.99%, Sharpe=1.84, MDD=-9.39%
+2025-11-25 18:22:34,305 [INFO] stage_gridsearch: GS 60-90-240 AR=12.95% Sharpe=1.84 MDD=-9.39%
+2025-11-25 18:22:34,321 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:36,416 [INFO] report: Metrics: AR=13.02%, Vol=6.93%, Sharpe=1.87, MDD=-9.70%
+2025-11-25 18:22:36,416 [INFO] stage_gridsearch: GS 60-90-250 AR=13.02% Sharpe=1.87 MDD=-9.70%
+2025-11-25 18:22:36,426 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:38,649 [INFO] report: Metrics: AR=12.94%, Vol=6.98%, Sharpe=1.84, MDD=-8.97%
+2025-11-25 18:22:38,649 [INFO] stage_gridsearch: GS 60-100-180 AR=12.94% Sharpe=1.84 MDD=-8.97%
+2025-11-25 18:22:38,660 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:40,830 [INFO] report: Metrics: AR=13.13%, Vol=7.00%, Sharpe=1.86, MDD=-9.19%
+2025-11-25 18:22:40,831 [INFO] stage_gridsearch: GS 60-100-190 AR=13.13% Sharpe=1.86 MDD=-9.19%
+2025-11-25 18:22:40,842 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:43,096 [INFO] report: Metrics: AR=13.21%, Vol=7.01%, Sharpe=1.87, MDD=-8.97%
+2025-11-25 18:22:43,096 [INFO] stage_gridsearch: GS 60-100-200 AR=13.21% Sharpe=1.87 MDD=-8.97%
+2025-11-25 18:22:43,108 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:45,417 [INFO] report: Metrics: AR=13.12%, Vol=6.99%, Sharpe=1.86, MDD=-9.23%
+2025-11-25 18:22:45,417 [INFO] stage_gridsearch: GS 60-100-210 AR=13.12% Sharpe=1.86 MDD=-9.23%
+2025-11-25 18:22:45,429 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:47,643 [INFO] report: Metrics: AR=13.09%, Vol=6.96%, Sharpe=1.87, MDD=-9.23%
+2025-11-25 18:22:47,644 [INFO] stage_gridsearch: GS 60-100-220 AR=13.09% Sharpe=1.87 MDD=-9.23%
+2025-11-25 18:22:47,654 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:49,860 [INFO] report: Metrics: AR=13.20%, Vol=6.90%, Sharpe=1.90, MDD=-7.87%
+2025-11-25 18:22:49,861 [INFO] stage_gridsearch: GS 60-100-230 AR=13.20% Sharpe=1.90 MDD=-7.87%
+2025-11-25 18:22:49,871 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:52,037 [INFO] report: Metrics: AR=13.07%, Vol=6.87%, Sharpe=1.89, MDD=-7.96%
+2025-11-25 18:22:52,037 [INFO] stage_gridsearch: GS 60-100-240 AR=13.07% Sharpe=1.89 MDD=-7.96%
+2025-11-25 18:22:52,048 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:54,160 [INFO] report: Metrics: AR=12.96%, Vol=6.86%, Sharpe=1.88, MDD=-8.42%
+2025-11-25 18:22:54,160 [INFO] stage_gridsearch: GS 60-100-250 AR=12.96% Sharpe=1.88 MDD=-8.42%
+2025-11-25 18:22:54,171 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:56,314 [INFO] report: Metrics: AR=13.37%, Vol=6.97%, Sharpe=1.90, MDD=-7.41%
+2025-11-25 18:22:56,314 [INFO] stage_gridsearch: GS 60-110-180 AR=13.37% Sharpe=1.90 MDD=-7.41%
+2025-11-25 18:22:56,326 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:22:58,582 [INFO] report: Metrics: AR=13.55%, Vol=6.99%, Sharpe=1.92, MDD=-7.59%
+2025-11-25 18:22:58,582 [INFO] stage_gridsearch: GS 60-110-190 AR=13.55% Sharpe=1.92 MDD=-7.59%
+2025-11-25 18:22:58,593 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:00,815 [INFO] report: Metrics: AR=13.61%, Vol=7.00%, Sharpe=1.93, MDD=-7.46%
+2025-11-25 18:23:00,815 [INFO] stage_gridsearch: GS 60-110-200 AR=13.61% Sharpe=1.93 MDD=-7.46%
+2025-11-25 18:23:00,832 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:03,015 [INFO] report: Metrics: AR=13.55%, Vol=6.98%, Sharpe=1.92, MDD=-7.72%
+2025-11-25 18:23:03,016 [INFO] stage_gridsearch: GS 60-110-210 AR=13.55% Sharpe=1.92 MDD=-7.72%
+2025-11-25 18:23:03,026 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:05,326 [INFO] report: Metrics: AR=13.50%, Vol=6.96%, Sharpe=1.92, MDD=-7.72%
+2025-11-25 18:23:05,326 [INFO] stage_gridsearch: GS 60-110-220 AR=13.50% Sharpe=1.92 MDD=-7.72%
+2025-11-25 18:23:05,338 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:07,435 [INFO] report: Metrics: AR=13.49%, Vol=6.90%, Sharpe=1.94, MDD=-7.72%
+2025-11-25 18:23:07,435 [INFO] stage_gridsearch: GS 60-110-230 AR=13.49% Sharpe=1.94 MDD=-7.72%
+2025-11-25 18:23:07,447 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:09,550 [INFO] report: Metrics: AR=13.30%, Vol=6.87%, Sharpe=1.92, MDD=-7.98%
+2025-11-25 18:23:09,551 [INFO] stage_gridsearch: GS 60-110-240 AR=13.30% Sharpe=1.92 MDD=-7.98%
+2025-11-25 18:23:09,561 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:11,639 [INFO] report: Metrics: AR=13.18%, Vol=6.86%, Sharpe=1.91, MDD=-8.09%
+2025-11-25 18:23:11,639 [INFO] stage_gridsearch: GS 60-110-250 AR=13.18% Sharpe=1.91 MDD=-8.09%
+2025-11-25 18:23:11,650 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:13,787 [INFO] report: Metrics: AR=13.32%, Vol=6.99%, Sharpe=1.89, MDD=-7.60%
+2025-11-25 18:23:13,788 [INFO] stage_gridsearch: GS 60-120-180 AR=13.32% Sharpe=1.89 MDD=-7.60%
+2025-11-25 18:23:13,799 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:15,988 [INFO] report: Metrics: AR=13.45%, Vol=7.00%, Sharpe=1.90, MDD=-7.78%
+2025-11-25 18:23:15,989 [INFO] stage_gridsearch: GS 60-120-190 AR=13.45% Sharpe=1.90 MDD=-7.78%
+2025-11-25 18:23:15,999 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:18,213 [INFO] report: Metrics: AR=13.58%, Vol=7.01%, Sharpe=1.92, MDD=-7.65%
+2025-11-25 18:23:18,214 [INFO] stage_gridsearch: GS 60-120-200 AR=13.58% Sharpe=1.92 MDD=-7.65%
+2025-11-25 18:23:18,225 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:20,393 [INFO] report: Metrics: AR=13.62%, Vol=6.99%, Sharpe=1.93, MDD=-7.91%
+2025-11-25 18:23:20,393 [INFO] stage_gridsearch: GS 60-120-210 AR=13.62% Sharpe=1.93 MDD=-7.91%
+2025-11-25 18:23:20,403 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:22,553 [INFO] report: Metrics: AR=13.56%, Vol=6.97%, Sharpe=1.93, MDD=-7.91%
+2025-11-25 18:23:22,554 [INFO] stage_gridsearch: GS 60-120-220 AR=13.56% Sharpe=1.93 MDD=-7.91%
+2025-11-25 18:23:22,565 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:24,735 [INFO] report: Metrics: AR=13.50%, Vol=6.91%, Sharpe=1.94, MDD=-7.91%
+2025-11-25 18:23:24,736 [INFO] stage_gridsearch: GS 60-120-230 AR=13.50% Sharpe=1.94 MDD=-7.91%
+2025-11-25 18:23:24,747 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:26,870 [INFO] report: Metrics: AR=13.27%, Vol=6.88%, Sharpe=1.91, MDD=-8.17%
+2025-11-25 18:23:26,870 [INFO] stage_gridsearch: GS 60-120-240 AR=13.27% Sharpe=1.91 MDD=-8.17%
+2025-11-25 18:23:26,887 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:23:29,087 [INFO] report: Metrics: AR=13.18%, Vol=6.86%, Sharpe=1.91, MDD=-8.27%
+2025-11-25 18:23:29,088 [INFO] stage_gridsearch: GS 60-120-250 AR=13.18% Sharpe=1.91 MDD=-8.27%
+2025-11-25 18:23:29,091 [INFO] stage_gridsearch: GridSearch saved to reports\gridsearch_sma.csv
+2025-11-25 18:23:29,091 [INFO] main: Pipeline completed.
+2025-11-25 18:45:40,917 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 18:45:43,155 [INFO] report: Metrics: AR=14.06%, Vol=6.52%, Sharpe=2.12, MDD=-6.99%
+2025-11-25 18:45:43,155 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-25 18:45:44,291 [INFO] viz: Figure prepared. MDD=-6.99% from 2020-09-03 to 2020-10-30
+2025-11-25 18:45:44,383 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-25 18:45:44,403 [INFO] stage_backtest: Holdings saved to reports\holdings_daily.csv
+2025-11-25 18:45:44,416 [INFO] stage_backtest: Events saved to reports\rebalance_events.csv
+2025-11-25 18:45:44,417 [INFO] main: Pipeline completed.
+2025-11-25 20:44:00,428 [INFO] backtest: Price frame prepared: 2014-01-02 00:00:00 -> 2025-11-25 00:00:00 | ['511010.SH', '511880.SH', '510300.SH', '513100.SH', '518880.SH']
+2025-11-25 20:44:02,564 [INFO] report: Metrics: AR=13.60%, Vol=6.84%, Sharpe=1.97, MDD=-7.05%
+2025-11-25 20:44:02,565 [INFO] stage_backtest: Report saved to reports\backtest_report.md
+2025-11-25 20:44:02,718 [INFO] viz: Figure prepared. MDD=-7.05% from 2015-06-08 to 2015-09-15
+2025-11-25 20:44:02,744 [INFO] stage_backtest: Chart saved to charts\portfolio.html
+2025-11-25 20:44:02,760 [INFO] stage_backtest: Holdings saved to reports\holdings_daily.csv
+2025-11-25 20:44:02,771 [INFO] stage_backtest: Events saved to reports\rebalance_events.csv
+2025-11-25 20:44:02,772 [INFO] main: Pipeline completed.
