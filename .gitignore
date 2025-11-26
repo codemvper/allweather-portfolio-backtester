@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Project Data & Output
+data/
+logs/
+reports/
+charts/
+*.log
+*.csv
+*.html
+*.png
+!weights.csv
